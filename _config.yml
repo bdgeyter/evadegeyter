@@ -27,3 +27,6 @@ defaults:
   values:
     layout: page
 permalink: pretty
+About:
+  about_text: 
+  about_profile_image: 
