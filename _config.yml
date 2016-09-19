@@ -1,32 +1,76 @@
----
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+#hero
 title: Eva De Geyter
-timezone: UTC
+logo_title: Eva
+email: hallo@evadegeyter.be
+description: > # this means to ignore newlines until "baseurl:"
+  Eva De Geyter is freelance copywriter, journaliste en creatieve duizendpoot
+background_image: /assets/images/b1.jpg
+
+#url
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://evadegeyter.dev" # the base hostname & protocol for your site
+
+#content
 collections:
-  portfolio:
-    title: Portfolio
-    output: true
-    Highlights:
-    - One
-    - Two
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
+    - projects
+    - skills
+    - experience
+    - services
+    - clients
+    
 defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/posts/:title/"
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-permalink: pretty
-About:
-  about_text: 
-  about_profile_image: 
+    - scope:
+        path: ""
+        type: projects
+      values:
+        client:
+        skills:
+        project_images:
+    - scope:
+        path: ""
+        type: skills
+      values:
+        icon:
+    - scope:
+        path: ""
+        type: experience
+      values:
+        period:
+    - scope:
+        path: ""
+        type: services
+      values:
+        icon:
+    - scope:
+        path: ""
+        type: clients
+      values:
+        link:
+        logo:
+    
+
+#social
+social:
+    - network: facebook
+      username: poppinette
+    - network: instagram
+      username: evadegeyter
+
+# Build settings
+markdown: kramdown
