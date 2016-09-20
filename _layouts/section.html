@@ -1,4 +1,7 @@
-<section id="page-{{ page.slug }}">
+<section id="page-{{ page.slug }}" style="
+{% if page.background_color %} background-color:{{ page.background_color }}; {% endif %}
+{% if page.background_image %} background-image:url({{ page.background_image }}); {% endif %}"
+class="section {% if page.is_dark_background %}dark{% endif %}">
     <div class="container">
         <div class="section-title">
             <span>
@@ -7,6 +10,11 @@
         </div>
         <div class="section-content">
             {{ content }}
+            {% for list in page.lists %}
+              {% if list[1] %} 
+                {% assign collection = list[0] %}   
+                {% include {{ collection }}.html %}{% endif %}
+            {% endfor %}
         </div>
     </div>
 </section>

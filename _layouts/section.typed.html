@@ -1,0 +1,9 @@
+---
+layout: section
+---
+{{ content }}
+<div id="typed-strings">
+{% for word in page.typewriter_words %}
+  <p>{{ word }}</p>
+{% endfor %}
+</div>

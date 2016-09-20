@@ -3,6 +3,6 @@ layout: default
 ---
 
 {{ content }}
-{% for slug in page.sections %}
-{{ site.sections | where: "slug", slug }}
+{% for title in page.sections %}
+{{ site.sections | where: "title", title }}
 {% endfor %}

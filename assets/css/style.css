@@ -214,49 +214,12 @@ ul.nop {
 	02. Section Intro (Home)
 ---------------------------------------------------*/
 
-.main-intro {
-	text-align: center;
-	background: #fff url(../images/b1.jpg);
-  background-size: cover;
-  height: 100vh;
-	min-height: 700px;
-}
 
-
-.main-content {
-	padding-top: 16%;
-	text-align: left;
-	color: #fff;
-}
-
-.main-content h1 {
-	font-size: 55px;
-	letter-spacing: 1px;
-	font-weight: 100;
-	line-height: 75px;
-}
-.main-content h3 {
-	font-size: 12px;
-	letter-spacing: 3px;
-	text-transform: uppercase;
-	font-weight: 800;
-}
 
 /*------------------------------------------------
 	03. Section About
 ---------------------------------------------------*/
 
-#page-about {
-	padding: 150px 0;
-	text-align: left;
-	background: #ebe66d;
-}
-.about-content h1 {
-	font-size: 35px;
-	line-height: 55px;
-	letter-spacing: 0;
-	margin-bottom: 40px;
-}
 
 /*------------------------------------------------
 	04. Section Resume

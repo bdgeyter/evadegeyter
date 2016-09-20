@@ -1,0 +1,28 @@
+{% assign education = site.experience | where: "category", "opleiding" %}
+{% assign work = site.experience | where: "category", "werk" %}
+
+<div class="resume-content">
+  <div class="col-md-6 resumer-ed nplr">
+    <div class="icon icon-basic-book"></div>
+    <ul class="resume-list nop">
+      {% for experience in education %}
+      <li>
+        <b>{{ experience.title }}</b><i>{{ experience.period }}</i>
+        {{ experience.content }}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="col-md-6 resumer-em nplr">
+    <div class="icon icon-basic-spread-text-bookmark"></div>
+    <ul class="resume-list nop">
+      {% for experience in work %}
+      <li>
+        <b>{{ experience.title }}</b><i>{{ experience.period }}</i>
+        {{ experience.content }}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

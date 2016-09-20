@@ -61,6 +61,12 @@ defaults:
   values:
     background_color: 
     layout: section
+    lists:
+      projects: false
+      skills: false
+      experience: false
+      services: false
+      clients: false
 - scope:
     path: ''
     type: pages
