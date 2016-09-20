@@ -1,7 +1,8 @@
 ---
 title: Partena
+categories:
+- werk
 period: present
-category: werk
 ---
 
 Freelance SEO en copywriting
