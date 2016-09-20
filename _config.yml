@@ -2,6 +2,9 @@
 title: Eva De Geyter
 timezone: UTC
 collections:
+  sections:
+    title: Sections
+    output: false
   clients:
     title: Clients
     output: false
@@ -52,6 +55,17 @@ defaults:
   values:
     link: 
     logo: 
+- scope:
+    path: ''
+    type: sections
+  values:
+    background_color: #ebe66d
+    layout: section
+- scope:
+    path: ''
+    type: pages
+  values:
+    sections:
 logo_title: Eva
 email: hallo@evadegeyter.be
 description: 'Eva De Geyter is freelance copywriter, journaliste en creatieve duizendpoot
