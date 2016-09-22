@@ -1,5 +1,5 @@
-{% assign education = site.experience | where: "category", "opleiding" %}
-{% assign work = site.experience | where: "category", "werk" %}
+{% assign education = site.experience | where_exp: "item", "item.type.opleiding" %}
+{% assign work = site.experience | where_exp: "item", "item.type.werk" %}
 
 <div class="resume-content">
   <div class="col-md-6 resumer-ed nplr">

@@ -1,7 +1,8 @@
 ---
 title: Partena
-categories:
-- werk
+type:
+  werk: true
+  opleiding: false
 period: present
 ---
 

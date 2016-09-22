@@ -43,7 +43,10 @@ defaults:
     path: ''
     type: experience
   values:
-    period: 
+    period:
+    type:
+      werk: false
+      opleiding: false
 - scope:
     path: ''
     type: services
@@ -86,3 +89,7 @@ social:
 - network: instagram
   username: evadegeyter
 markdown: kramdown
+exclude:
+  - package.json
+  - node_modules
+  - gulpfile.js
