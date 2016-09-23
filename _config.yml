@@ -35,7 +35,7 @@ defaults:
     client: 
     skills: 
     images: 
-    cover_photo:
+    cover_photo: 
 - scope:
     path: ''
     type: skills
@@ -64,7 +64,7 @@ defaults:
     path: ''
     type: sections
   values:
-    background_color: #fff
+    background_color: 
     layout: section
     lists:
       projects: false
