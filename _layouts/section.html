@@ -1,20 +1,22 @@
-<section id="page-{{ page.slug }}" style="
-{% if page.background_color %} background-color:{{ page.background_color }}; {% endif %}
-{% if page.background_image %} background-image:url({{ page.background_image }}); {% endif %}"
-class="section {% if page.is_dark_background %}dark{% endif %}">
-    <div class="container">
-        <div class="section-title">
-            <span>
-                {{ page.title }}
-            </span>
-        </div>
-        <div class="section-content">
-            {{ content }}
-            {% for list in page.lists %}
-              {% if list[1] %} 
-                {% assign collection = list[0] %}   
-                {% include {{ collection }}.html %}{% endif %}
-            {% endfor %}
-        </div>
+<section id="page-{{ page.slug }}" style="{% if page.background_color %}background-color: #{{ page.background_color }};{% endif %}
+                                          {% if page.background_image %} background-image:url({{ page.background_image }}); {% endif %}"
+         class="section{% if page.is_dark_background %} dark{% endif %}{% if page.is_fullscreen %} fullscreen{% endif %}">
+  <div class="container">
+      <div class="section-title">
+        <h1>
+          {{ page.title }}
+        </h1>
+      </div>
+      <div class="section-content">
+        {{ content }}
+      </div>
+      <div class="section-list">
+      {% for list in page.lists %}
+        {% if list[1] %} 
+        {% assign collection = list[0] %}   
+        {% include {{ collection }}.html %}{% endif %}
+        {% endfor %}
     </div>
+      
+  </div>
 </section>

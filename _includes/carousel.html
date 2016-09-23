@@ -1,0 +1,28 @@
+{% assign carousel_id = "carousel-project-" | append: include.slug %}
+<div id="{{ carousel_id }}" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    {% for image in include.images %}
+    <li data-target="#{{ carousel_id }}" data-slide-to="{{ forloop.index }}" {% if forloop.first == true %}class="active"{% endif %}></li>
+    {% endfor %}
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    {% for image in include.images %}
+    <div class="item {% if forloop.first == true %}active{% endif %}">
+      <img src="{{ image }}" alt="{{ include.slug }}">
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#{{ carousel_id }}" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Vorige</span>
+  </a>
+  <a class="right carousel-control" href="#{{ carousel_id }}" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Volgende</span>
+  </a>
+</div>

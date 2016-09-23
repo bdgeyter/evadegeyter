@@ -153,7 +153,11 @@ $(document).ready(function() {
     // init Isotope for Portfolio with Filters
     var iso = new Isotope( '#isotopeGrid', {
         itemSelector: '.itemIso',
-        gutter: 0
+        percentPosition: true,
+        masonry: {
+            columnWidth: '.grid-sizer',
+            gutter: 20, 
+        }
     });
 
 

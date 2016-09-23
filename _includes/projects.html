@@ -1,0 +1,41 @@
+
+{% assign groups = site.projects | group_by: "category" | sort: "name" %}
+{% assign project_collection = site.collections | where: "label", "projects" | first%}
+{% assign default_cover = project_collection.cover_photo %}
+<ul class="filters filters-group nop">
+  <li class="filter is-checked" data-filter="*">All</li>
+  {% for group in groups %}
+  <li class="filter" data-filter=".{{ group.name | slugify }}">{{ group.name }}</li>
+  {% endfor %}
+</ul>
+
+<div id="isotopeGrid" class="mGrid">
+  <div class="grid-sizer"></div>
+
+  {% for project in site.projects %}
+  <div class="itemIso {{ project.category | slugify }}">
+    <a class="image-modal" data-toggle="modal" data-target=".modal1" href="#image-{{ project.slug}}">
+      <img src="{% if project.cover_photo %}{{ project.cover_photo }}{% else %}{{ default_cover }}{% endif %}" alt="">
+      <div class="item-hover">
+        <div class="item-hover-content">
+          <div class="item-title">{{ project.title }}</div>
+          <i>{{ project.category }}</i>
+        </div>
+      </div>
+    </a>
+
+    <div id="image-{{ project.slug}}" class="mfp-hide modal-box">
+      {% if project.images.size > 1 %}
+        {% include carousel.html images=project.images slug=project.slug %}
+      {% else %}
+        <img src="{% if project.cover_photo %}{{ project.cover_photo }}{% else %}{{ default_cover }}{% endif %}" alt="">
+      {% endif %}
+      <div class="modal-box-content">
+        <h3>{{ project.title }}</h3>
+        <p>{{ project.content }} </p>
+      </div>
+    </div>
+
+  </div>
+  {% endfor %}
+</div>

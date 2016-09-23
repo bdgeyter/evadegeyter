@@ -14,6 +14,7 @@ collections:
   projects:
     title: Projects
     output: false
+    cover_photo: assets/images/default_project_cover.jpg
   sections:
     title: Sections
     output: false
@@ -33,7 +34,8 @@ defaults:
   values:
     client: 
     skills: 
-    project_images: 
+    images: 
+    cover_photo:
 - scope:
     path: ''
     type: skills
@@ -62,7 +64,7 @@ defaults:
     path: ''
     type: sections
   values:
-    background_color: 
+    background_color: #fff
     layout: section
     lists:
       projects: false
