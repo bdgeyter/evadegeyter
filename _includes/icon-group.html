@@ -1,0 +1,9 @@
+<div class="row icon-group">
+  {% for item in include.items %}
+  <div class="col-md-3 col-sm-6 icon-group-item">
+    <div class="icon {{ item.icon }}"></div>
+    <span>{{ item.title }}</span>
+    {{ item.content | markdownify }}
+  </div>
+  {% endfor %}
+</div>

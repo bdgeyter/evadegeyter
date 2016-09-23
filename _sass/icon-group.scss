@@ -1,0 +1,34 @@
+.icon-group {
+  padding-top: 40px;
+
+  &-item {
+    min-height: 160px;
+    padding: 15px;
+    -webkit-transition: all .25s ease-in-out;
+    transition: all .25s ease-in-out;
+
+    &:hover {
+      background: rgba(0,0,0,0.1);
+    }
+
+    .icon {
+      font-size: 40px;
+      color: #222;
+    }
+
+    span {
+      text-transform: uppercase;
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: 2px;
+    }
+
+    p {
+      font-size: 11px;
+      line-height: 20px;
+      letter-spacing: 1px;
+      color: #222;
+      font-style: italic;
+    }
+  }
+}
