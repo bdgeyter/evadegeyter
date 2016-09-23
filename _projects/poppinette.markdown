@@ -1,6 +1,7 @@
 ---
 title: Poppinette
-category: Styling
+categories:
+- Styling
 ---
 
 Lorem ipsum
