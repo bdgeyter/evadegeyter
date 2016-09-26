@@ -1,13 +1,8 @@
 ---
 ---
-
-$main-font: 'Playfair Display', serif;
-
-$break-small: 480px;
-$break-large: 787px;
-
-$theme-colour: #ebe66d;
-
+@import 'fonts';
+@import 'variables';
+@import 'style';
 @import 'section';
 @import 'project';
 @import 'icon-group';
