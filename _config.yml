@@ -35,7 +35,7 @@ defaults:
     client: 
     skills: 
     images: 
-    cover_photo: /assets/images/default_project_cover.jpg
+    cover_photo: "/assets/images/default_project_cover.jpg"
 - scope:
     path: ''
     type: skills

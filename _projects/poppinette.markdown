@@ -1,8 +1,8 @@
 ---
 title: Poppinette
 categories:
-  - styling
-  - nog iets
+- styling
+- nog iets
 ---
 
 Si veniam quis enim cupidatat, cillum praetermissum probant quid possumus, de 
