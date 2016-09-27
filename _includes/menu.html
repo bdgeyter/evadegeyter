@@ -1,20 +1,18 @@
 <!-- Fixed Header & Navigation
-    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-  <div class="sidebar-menu">
-    <div class="menu-close"><span aria-hidden="true" class="icon_close"></span></div>
-    <h3 class="smlogo">{{ site.logo_title }}</h3>
-    <nav class="navigation">
-      <ul class="smenu navigation">
-        <li><a href="#page-intro">Home</a></li>
-        <li><a href="#page-about">About</a></li>
-        <li><a href="#page-resume">Resume</a></li>
-        <li><a href="#page-folio">Portfolio</a></li>
-        <li><a href="#page-services">Services</a></li>
-        <li><a href="#page-contact">Contact</a></li>
-      </ul>
-    </nav>
-  </div>
+<div class="sidebar-menu">
+  <div class="menu-close"><span aria-hidden="true" class="icon_close"></span></div>
+  <h3 class="smlogo">{{ site.logo_title }}</h3>
+  <nav class="navigation">
+    <ul class="smenu navigation">
+      {% for title in include.sections %}
+      {% assign section = site.sections | where: "title", title | first %}
+      <li><a href="#page-{{ section.slug }}">{{ section.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+</div>
 
 
 <header class="header-fixed">
