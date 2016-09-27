@@ -14,5 +14,5 @@ typewriter_words:
 - seo
 ---
 
-# Hallo,
-# ik ben <i id="typed">Eva De Geyter</i>
+## Hallo,
+## ik ben <i id="typed">Eva De Geyter</i>

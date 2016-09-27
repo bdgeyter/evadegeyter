@@ -46,42 +46,37 @@ a:focus {
 	text-decoration: none;
 }
 h1, h2, h3, h4, h5, h6 {
-	font-weight: 500;
 	font-family: $main-font;
 }
 h1 {
-	font-size: 50px;
-	letter-spacing: 3px;
-	font-weight: 400;
+	font-size: 90px;
 }
+
 h2 {
-	font-size: 40px;
-	letter-spacing: 3px;
+	font-size: 70px;
 }
+
 h3 {
-	font-size: 35px;
-	font-weight: 300;
-	letter-spacing: 2px;
+	font-size: 60px;
+
 }
 h4 {
-	font-size: 30px;
-	font-weight: 300;
-	letter-spacing: 2px;
+	font-size: 50px;
+
 }
 h5 {
-	font-size: 25px;
-	font-weight: 300;
-	letter-spacing: 1px;
+	font-size: 40px;
+	letter-spacing: 2px;
 }
 h6 {
-	font-size: 20px;
-	font-weight: 300;
-	letter-spacing: 1px;
+	font-size: 30px;
+  letter-spacing: 2px;
 }
+
 p {
- 	line-height: 35px;
- 	letter-spacing: 1px;
- 	font-size: 14px;
+ 	line-height: 1.5em;
+ 	letter-spacing: normal;
+ 	font-size: 20px;
 	color: #555;
 }
 ul.nop {
@@ -96,6 +91,9 @@ ul.nop {
 	margin: 0;
 }
 
+.label.label-primary {
+  background-color: $theme-colour;
+}
 
 
 /*--------------------------------------------------
@@ -132,14 +130,12 @@ ul.nop {
 
 }
 .site-logo h3{
-	font-size: 16px;
-	letter-spacing: 1px;
+	font-size: 30px;
 	color: #fff;
-	font-weight: bold;
 }
 .site-logo {
 	position: relative;
-	bottom: 20px;
+	bottom: 25px;
 }
 .site-menu:hover .mb-top, .site-menu:hover .mb-bot {
 	width: 30px;
@@ -176,8 +172,8 @@ ul.nop {
 .smlogo {
 	color: #fff;
 	padding: 0px 30px 20px 80px;
-	font-size: 35px;
-	font-weight: 800;
+	font-size: 45px;
+	font-weight: normal;
 }
 .smenu li.active a {
 	border: 1px solid #fff;
@@ -220,84 +216,7 @@ ul.nop {
 	04. Section Resume
 ---------------------------------------------------*/
 
-.resume-content {
-	position: relative;
-	padding-left: 10px;
-	padding-top: 50px;
-}
-.resume-content h6 {
-	text-transform: uppercase;
-	font-size: 12px;
-	font-weight: 800;
-	padding-bottom: 20px;
-}
-.resumer-em {
-	padding-left: 30px;
-}
-.resumer-ed {
-	padding-right: 30px;
-}
-.resume-list li {
-	padding: 30px 0;
-	list-style: none;
-	position: relative;
-}
-.resume-list li b {
-	font-size: 21px;
-	padding-bottom: 10px;
-	font-weight: 400;
-	letter-spacing: 1px;
-}
-.resume-list li i {
-	font-size: 12px;
-	color: #222;
-	font-weight: 800;
-	-webkit-transition: all .25s ease-in-out;
-	transition: all .25s ease-in-out;
-	margin-left: 10px;
-}
-.resume-list li p {
-	line-height: 30px;
-	padding-top: 5px;
-}
-.resume-content .icon {
-	font-size: 40px;
-	color: #222;
-}
 
-.resume-list li:hover .circle-dot {
-	background: #ebe66d;
-}
-
-.skills h6 {
-	text-transform: uppercase;
-	font-size: 16px;
-	font-weight: 400;
-	padding-bottom: 20px;
-}
-
-.pb-box {
-	position: absolute;
-	background:#222222;
-	color: #fff;
-	right: 0;
-	bottom: 100%;
-	padding: 5px;
-	font-size:11px;
-	letter-spacing: 1px;
-	font-weight: 800;
-}
-.pb-title {
-	position: absolute;
-	color: #222;
-	font-size:12px;
-	letter-spacing: 1px;
-	font-weight: 800;
-	left: 5px;
-	bottom: 100%;
-	padding-bottom: 5px;
-	text-transform: uppercase;
-}
 /*------------------------------------------------
 	05. Section Portfolio
 ---------------------------------------------------*/

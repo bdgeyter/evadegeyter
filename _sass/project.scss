@@ -11,32 +11,30 @@
 }
 
 .itemIso, .grid-sizer {
-    width: 47%;
+  width: 47%;
   @media screen and (max-width: $break-large) {
     width: 47%;
   }
   @media screen and (max-width: $break-small) {
     width: 100%;
   }
-  }
+}
 
 .itemIso {
   margin-bottom: 20px;
-  
+
   a {
     display: block;
     overflow: hidden;
     position: relative;
     cursor: pointer;
   }
-  
+
   .item-title {
     color: #fff;
     font-family: $main-font;
-    font-size: 15px;
-    letter-spacing: 2px;
-    font-weight: 800;
-    margin-bottom: 0px;
+    font-size: 30px;
+    line-height: 0.8em;
   }
 
   i {
@@ -66,7 +64,7 @@
 }
 .is-checked {
   color: #222!important;
-  background: #ebe66d!important;
+  background: $theme-colour!important;
 }
 .item-hover {
   position: absolute;
@@ -136,4 +134,35 @@
     }
   }
 }
+
+
+.project{
+
+  .jumbotron {
+    min-height: 300px;
+    height: 62.11vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+    h1 {
+      color: white;
+      font-size: 90px;
+
+      @media screen and (max-width: 480px) {
+        font-size: 60px;
+      }
+    }
+  }
+
+  .categories {
+    text-transform: uppercase;
+    color: $theme-colour;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+}
+
 

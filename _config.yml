@@ -13,8 +13,7 @@ collections:
     output: true
   projects:
     title: Projects
-    output: false
-    cover_photo: assets/images/default_project_cover.jpg
+    output: true
   sections:
     title: Sections
     output: false
@@ -32,10 +31,11 @@ defaults:
     path: ''
     type: projects
   values:
+    layout: default.project
     client: 
     skills: 
     images: 
-    cover_photo: 
+    cover_photo: /assets/images/default_project_cover.jpg
 - scope:
     path: ''
     type: skills
