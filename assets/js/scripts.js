@@ -4,47 +4,26 @@
 $(document).ready(function() {
 
     "use strict";
+  
+    //------- MODAL ---------//
+    if (window.location.hash.indexOf('projects') > 0) {
+      $(window.location.hash).modal('show');
+    }
 
-    $('.image-modal').magnificPopup({
-
-        type:'inline',
-        fixedContentPos: false,
-        removalDelay: 100,
-        closeBtnInside: true,
-        preloader: false,
-        mainClass: 'mfp-fade'
-
+    $('a[data-toggle="modal"]').click(function(){
+        window.location.hash = $(this).attr('href');
     });
-
-    $(document).on('click', '.popup-modal-dismiss', function (e) {
-        e.preventDefault();
-        $.magnificPopup.close();
+  
+    $('.modal').on('hidden.bs.modal', function () {
+        var original = window.location.href.substr(0, window.location.href.indexOf('#'))
+        history.replaceState({}, document.title, original);
     });
-
-
-    $('.image-popup-no-margins').magnificPopup({
-        type: 'image',
-        closeOnContentClick: true,
-        closeBtnInside: false,
-        fixedContentPos: true,
-        mainClass: 'mfp-no-margins mfp-with-zoom', // class to remove default margin from left and right side
-        image: {
-            verticalFit: true
-        },
-        zoom: {
-            enabled: true,
-            duration: 300 // don't foget to change the duration also in CSS
-        }
-    });
-
-    $('.popup-youtube, .popup-vimeo, .popup-gmaps').magnificPopup({
-        disableOn: 700,
-        type: 'iframe',
-        mainClass: 'mfp-fade',
-        removalDelay: 160,
-        preloader: false,
-        fixedContentPos: false
-    });
+     
+    window.onhashchange = function(){
+      if (!window.location.hash) {
+        $('.modal').modal('hide');
+      }
+    }
 
 
     //------- SITE LOADER ---//
@@ -63,10 +42,6 @@ $(document).ready(function() {
             $(".header-fixed").removeClass("header-fixed-black");
         }
     });
-
-
-
-
 
     /*---- NAV MENU ---- */
 
@@ -227,7 +202,13 @@ $(document).ready(function() {
     });
 
   // ---- Gallery ---- //
-  $("#gallery").justifiedGallery();
+  $(".gallery").justifiedGallery({
+    rowHeight : 250,
+    lastRow : 'justify',
+    margins : 10,
+    border: 0,
+    captions: false
+  });
 
 
 });

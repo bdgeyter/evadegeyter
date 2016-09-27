@@ -1,6 +1,6 @@
 {% assign gallery_id = "gallery-project-" | append: include.slug %}
-<div id="gallery">
+<div class="gallery">
   {% for image in include.images %}
-    <div class="figure"><img alt="{{ include.slug }}" src="{{ image }}"/></div>
+    <div class=""><img alt="{{ include.slug }}" src="{{ image }}"/></div>
   {% endfor %}
 </div>

@@ -10,6 +10,9 @@ images:
   - /assets/images/03.jpg
   - /assets/images/04.jpg
 cover_photo: /assets/images/01.jpg
+skills: 
+  - Boeken
+  - Copywriting
 ---
 
 Ubi tamen probant. Irure aliquip do familiaritatem ubi duis incurreret si 

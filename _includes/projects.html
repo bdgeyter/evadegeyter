@@ -3,11 +3,11 @@
 <ul class="filters filters-group nop">
   <li class="filter is-checked" data-filter="*">All</li>
   {% for category in categories %}
-    {% unless category == previous %}
-      <li class="filter" data-filter=".{{ category | slugify }}">{{ category }}</li>
-    {% endunless %}
+  {% unless category == previous %}
+  <li class="filter" data-filter=".{{ category | slugify }}">{{ category }}</li>
+  {% endunless %}
 
-    {% assign previous = category %}
+  {% assign previous = category %}
 
   {% endfor %}
 </ul>
@@ -16,14 +16,14 @@
   <div class="grid-sizer"></div>
 
   {% for project in site.projects %}
-    {% assign category_classes = '' %}
-    {% for category in project.categories %}
-    {% assign category_class = category | slugify %}
-    {% assign category_classes = category_classes | append: ' ' | append: category_class %}
-    {% endfor %}
+  {% assign category_classes = '' %}
+  {% for category in project.categories %}
+  {% assign category_class = category | slugify %}
+  {% assign category_classes = category_classes | append: ' ' | append: category_class %}
+  {% endfor %}
   <div class="itemIso {{ category_classes }}">
     <!-- Project Card -->
-    <a class="image-modal" data-toggle="modal" data-target=".modal1" href="#image-{{ project.slug}}">
+    <a class="image-modal" data-toggle="modal" data-target="#project-{{ project.slug}}" href="#project-{{ project.slug}}">
       <img src="{{ project.cover_photo }}" alt="{{project.title | append:' cover photo'}}">
       <div class="item-hover">
         <div class="item-hover-content">
@@ -33,18 +33,43 @@
       </div>
     </a>
     <!-- Project Modal -->
-    <div id="image-{{ project.slug}}" class="mfp-hide modal-box">
-      {% if project.images.size > 1 %}
-        {% include carousel.html images=project.images slug=project.slug %}
-      {% else %}
-        <img src="{{ project.cover_photo }}" alt="{{project.title | append:' cover photo'}}">
-      {% endif %}
-      <div class="modal-box-content">
-        <h3>{{ project.title }}</h3>
-        <p>{{ project.content }} </p>
+    <div id="project-{{ project.slug}}" class="modal" role="dialog">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-title">
+            <img src="{{ project.cover_photo }}" alt="{{project.title | append:' cover photo'}}">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+          <div class="modal-body">
+            <h3>{{ project.title }}</h3>
+            {% for category in project.categories %}
+            <span class="label label-primary categories">{{ category }}</span>
+            {% endfor %}
+            {{ project.content }}
+            {% include gallery.html images=project.images slug=project.slug %}
+            <div class="project-info">
+              <div class="row">
+                <div class="col-md-4">
+                  <h4>Klant</h4>
+                  {{project.clients | join: ' '}}
+                  {% unless projects.clients %}
+                  nvt
+                  {% endunless%}
+                </div>
+                <div class="col-md-4">
+                <h4>Ervaring</h4>
+                  {{project.skills | join: ' '}}
+                </div>
+                <div class="col-md-4">
+                  <h4>Diensten</h4>
+                  {{project.categories | join: ' '}}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
-
   </div>
   {% endfor %}
 </div>
