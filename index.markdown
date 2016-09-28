@@ -9,7 +9,6 @@ sections:
 - Ervaring
 - Portfolio
 - Contact
-
 layout: default.sections
 ---
 
