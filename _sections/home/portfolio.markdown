@@ -6,6 +6,5 @@ lists:
   projects: true
 ---
 
-## I've been crafting lots of projects. 
-## These are my latest ones
+## Om trots op te zijn
 

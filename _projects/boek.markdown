@@ -5,7 +5,6 @@ categories:
 - tag
 - styling
 images:
-<<<<<<< HEAD
   - /assets/images/01.jpg
   - /assets/images/02.jpg
   - /assets/images/03.jpg
@@ -14,13 +13,6 @@ cover_photo: /assets/images/01.jpg
 skills: 
   - Boeken
   - Copywriting
-=======
-- "/assets/images/01.jpg"
-- "/assets/images/02.jpg"
-- "/assets/images/03.jpg"
-- "/assets/images/04.jpg"
-cover_photo: "/assets/images/01.jpg"
->>>>>>> 4649f7259fc4bd2a24ef66d3b40161f1de60f1e9
 ---
 
 Ubi tamen probant. Irure aliquip do familiaritatem ubi duis incurreret si 

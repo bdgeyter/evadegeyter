@@ -3,6 +3,19 @@ title: Poppinette
 categories:
 - styling
 - nog iets
+images:
+  - /assets/images/01.jpg
+  - /assets/images/02.jpg
+  - /assets/images/03.jpg
+  - /assets/images/04.jpg
+  - /assets/images/08.jpg
+  - /assets/images/09.jpg
+  - /assets/images/03.jpg
+  - /assets/images/04.jpg
+cover_photo: /assets/images/08.jpg
+skills: 
+  - Boeken
+  - Copywriting
 ---
 
 Si veniam quis enim cupidatat, cillum praetermissum probant quid possumus, de 

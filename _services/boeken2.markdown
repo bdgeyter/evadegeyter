@@ -1,6 +1,6 @@
 ---
-title: Boeken
-icon: icon-basic-book
+title: Digitaal
+icon: icon-basic-laptop
 ---
 
-Boeken schrijven is een hobby gelijk een ander
+Digitaal schrijf-, kunst- en vliegwerk

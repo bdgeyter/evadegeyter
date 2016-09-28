@@ -6,7 +6,7 @@ $(document).ready(function() {
     "use strict";
   
     //------- MODAL ---------//
-    if (window.location.hash.indexOf('projects') > 0) {
+    if (window.location.hash.indexOf('project') > 0) {
       $(window.location.hash).modal('show');
     }
 
@@ -25,6 +25,13 @@ $(document).ready(function() {
       }
     }
 
+    //------- SAFER MAILTO BUTTON ---//
+    $('.btn.mailto').click(function(){
+      this.preventDefault;
+      var username = 'hallo',
+          domain = 'evadegeyter.be';
+      location.href = 'mailto:' + username + '@' + domain;
+    });
 
     //------- SITE LOADER ---//
 

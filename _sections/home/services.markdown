@@ -7,4 +7,4 @@ lists:
   services: true
 ---
 
-## Ik ben gespecialiseerd in
+## Ik schrijf dus ik ben

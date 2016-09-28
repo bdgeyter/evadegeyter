@@ -15,4 +15,4 @@ typewriter_words:
 ---
 
 ## Hallo,
-## ik ben <i id="typed">Eva De Geyter</i>
+## ik ben <span id="typed">Eva De Geyter</span>

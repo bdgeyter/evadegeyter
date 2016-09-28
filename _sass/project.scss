@@ -34,7 +34,10 @@
     color: #fff;
     font-family: $main-font;
     font-size: 30px;
-    line-height: 0.8em;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 
   i {
@@ -82,14 +85,14 @@
 
   &-content {
     position: relative;
-    top:70%;
+    top:60%;
     opacity: 0;
-    left: 20px;
+    padding: 0px 20px;
     -webkit-transition: all .25s ease-in-out;
     transition: all .25s ease-in-out;
 
     .itemIso:hover & {
-      top: 80%;
+      top: 70%;
       opacity: 1;
     }
   }

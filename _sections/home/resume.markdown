@@ -1,10 +1,9 @@
 ---
-title: Resume
+title: Curriculum
 date: 2016-09-20 07:53:00 Z
 position: 0
-background_color: eee
 lists:
   experience: true
 ---
 
-### Met meer dan 10 jaar ervaring als lifestyle journaliste en schrijfster, ben ik...
+### 10 jaar ervaring
