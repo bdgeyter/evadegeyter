@@ -92,10 +92,11 @@ $(document).ready(function() {
 
 
     // init Isotope for Blog
+  /*
     $('#isoBlog').isotope({
         itemSelector: '.isoBlog',
         gutter: 10
-    });
+    });*/
 
     // init Isotope for Portfolio with Filters
     var iso = new Isotope( '#isotopeGrid', {

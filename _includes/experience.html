@@ -2,7 +2,7 @@
 {% assign work = site.experience | where_exp: "item", "item.type.werk" %}
 
 <div class="resume-content">
-  <div class="col-md-6 resumer-ed nplr">
+  <div class="col-sm-6 nplr">
     <div class="icon icon-basic-book"></div>
     <ul class="resume-list nop">
       {% for experience in education %}
@@ -14,7 +14,7 @@
     </ul>
   </div>
 
-  <div class="col-md-6 resumer-em nplr">
+  <div class="col-sm-6 nplr">
     <div class="icon icon-basic-case"></div>
     <ul class="resume-list nop">
       {% for experience in work %}
