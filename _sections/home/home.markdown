@@ -16,4 +16,4 @@ layout: section.typed
 
 ## Hallo,
 
-## ik ben <span id="typed">Eva De Geyter</span>
+## ik ben <span id="typed">Eva De Geyt</span>
