@@ -111,6 +111,9 @@
   
   .modal-body {
     margin: 0px 40px 40px 40px;
+    @media (max-width: 480px) {
+    margin: 0px 10px 40px 10px;
+  }
   }
 
   img {
@@ -122,6 +125,9 @@
     font-size: 15px;
     text-align: left;
     line-height: 30px;
+    @media (max-width: $break-small) {
+      line-height: 25px;
+    }
     padding-top: 25px;
     font-weight: 300;
     letter-spacing: 1px;

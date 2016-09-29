@@ -50,33 +50,54 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
 	font-size: 90px;
+  @media (max-width: 480px) {
+    font-size: 60px;
+  }
 }
 
 h2 {
 	font-size: 70px;
+  @media (max-width: 480px) {
+    font-size: 50px;
+  }
 }
 
 h3 {
 	font-size: 60px;
+  @media (max-width: 480px) {
+    font-size: 40px;
+  }
 
 }
 h4 {
 	font-size: 50px;
+  @media (max-width: 480px) {
+    font-size: 30px;
+  }
 
 }
 h5 {
 	font-size: 40px;
 	letter-spacing: 2px;
+  @media (max-width: 480px) {
+    font-size: 20px;
+  }
 }
 h6 {
 	font-size: 30px;
   letter-spacing: 2px;
+  @media (max-width: 480px) {
+    font-size: 16px;
+  }
 }
 
 p {
  	line-height: 1.5em;
  	letter-spacing: normal;
  	font-size: 20px;
+  @media (max-width: 480px) {
+    font-size: 16px;
+  }
 	color: #555;
 }
 ul.nop {
@@ -485,9 +506,7 @@ ul.error-messages li {
 	margin: 20px 0;
 }
 
-.header-fixed {
-	left: 50px;
-}
+
 .header-fixed-open {
 	max-width: 250px;
 	max-height: 1200px;
@@ -501,15 +520,7 @@ ul.error-messages li {
 	font-weight: 100;
 	line-height: 65px;
 }
-.header-fixed {
-	min-width: 50px;
-	color: #fff!important;
-	background: #222;
-	height: 55px;
-}
-.site-logo {
-	padding-top: 20px;
-}
+
 .site-menu {
 	margin-bottom: 10px;
 }
@@ -541,6 +552,11 @@ ul.error-messages li {
 	margin-right: 30px;
 	margin-left: 0;
 }
+  
+  .fullscreen .container {
+    width: 90%;
+  }
+  
 }
 
 
@@ -558,9 +574,7 @@ ul.error-messages li {
 .resume-list b {
 	display: block;
 }
-.header-fixed {
-	left: 15px;
-}
+
 .resumer-ed, .resumer-em {
 	padding-left: 0px;
 }
