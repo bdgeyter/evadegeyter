@@ -10,4 +10,4 @@ typewriter_words:
 layout: section.typed
 ---
 
-## We zijn aan bezig <span id="typed">aan een nieuwe site</span>
+## We zijn bezig <span id="typed">aan een nieuwe site</span>
