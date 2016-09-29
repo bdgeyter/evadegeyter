@@ -83,8 +83,8 @@ description: 'Eva De Geyter is freelance copywriter, journaliste en creatieve du
 
 '
 background_image: "/assets/images/b1.jpg"
-baseurl: ''
-url: http://evadegeyter.dev
+baseurl: 
+url: http://evadegeyter.be
 social:
 - network: pinterest
   username: poppinette
