@@ -2,7 +2,6 @@
 title: Home
 date: 2016-09-20 07:53:00 Z
 position: 0
-layout: section.typed
 background_image: assets/images/b1.jpg
 is_dark_background: true
 is_fullscreen: true
@@ -12,6 +11,7 @@ typewriter_words:
 - journalist
 - stylist
 - seo
+layout: section.typed
 ---
 
 ## Hallo,
