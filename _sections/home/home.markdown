@@ -6,7 +6,6 @@ background_image: assets/images/b1.jpg
 is_dark_background: true
 is_fullscreen: true
 typewriter_words:
-- Eva De Geyt
 - copywriter
 - journalist
 - stylist
