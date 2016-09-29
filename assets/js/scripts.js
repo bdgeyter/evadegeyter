@@ -43,7 +43,7 @@ $(document).ready(function() {
 
     $(window).scroll(function() {
         var scroll = $(window).scrollTop();
-        if (scroll >= 700 ) {
+        if (scroll >= window.innerHeight ) {
             $(".header-fixed").addClass("header-fixed-black");
         } else {
             $(".header-fixed").removeClass("header-fixed-black");
