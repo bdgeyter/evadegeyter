@@ -1,0 +1,8 @@
+---
+layout: bare
+---
+
+{{ content }}
+{% for title in page.sections %}
+{{ site.sections | where: "title", title }}
+{% endfor %}

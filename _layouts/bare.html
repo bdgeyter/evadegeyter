@@ -17,18 +17,12 @@
     {% include meta.html %}
 </head>
 <body data-spy="scroll" data-target=".navigation">
-    {% include menu.html sections=page.sections %}
-    {% include preloader.html %}
     <div class="page-wrapper">
         <div id="page">
             {{ content }}
-            {% include footer.html %}
         </div>
     </div>
     {% include scripts.html %}
-    <!--Scripts-->
-    <script src="{{ site.github.url }}/assets/js/scripts.js"></script>
-  <!-- Google maps -->
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC3vXu_Tce-LnOAYNa4Y8oATUim6R7QBZE&callback=initMap" async defer></script>
+    <script src="{{ site.github.url }}/assets/js/bare.js"></script>
 </body>
 </html>
