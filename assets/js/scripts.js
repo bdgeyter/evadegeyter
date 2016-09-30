@@ -99,7 +99,7 @@ $(document).ready(function() {
     });*/
 
     // init Isotope for Portfolio with Filters
-    $('#isotopeGrid').isotope({
+    var iso = new Isotope( '#isotopeGrid', {
         itemSelector: '.itemIso',
         percentPosition: true,
         masonry: {
