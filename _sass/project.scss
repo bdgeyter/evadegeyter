@@ -12,6 +12,7 @@
 
 .itemIso, .grid-sizer {
   width: 47%;
+  height: 150px;
   @media screen and (max-width: $break-large) {
     width: 47%;
   }

@@ -95,3 +95,5 @@ exclude:
 - package.json
 - node_modules
 - gulpfile.js
+sass:
+  style: compressed

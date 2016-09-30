@@ -5,7 +5,7 @@
   <div class="menu-close"><span aria-hidden="true" class="icon_close"></span></div>
   <h3 class="smlogo">{{ site.logo_title }}</h3>
   <nav class="navigation">
-    <ul class="smenu navigation">
+    <ul class="smenu nav">
       {% for title in include.sections %}
       {% assign section = site.sections | where: "title", title | first %}
       <li><a href="#page-{{ section.slug }}">{{ section.title }}</a></li>
