@@ -6,14 +6,14 @@ background_image: assets/images/b1.jpg
 is_dark_background: true
 is_fullscreen: true
 typewriter_words:
-- Eva De Geyter
-- copywriter
-- journalist
-- stylist
-- seo
+- zinnen die klinken
+- teksten die rollen
+- seo-content die klikt
+- magazines die schitteren
+- webcontent die er staat
 layout: section.typed
 ---
 
-## Hallo,
+## Zoek niet verder,
 
-## ik ben <span id="typed">Eva De Geyter</span>
+## ik <span id="typed">schrijf</span>
