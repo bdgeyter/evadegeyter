@@ -15,4 +15,5 @@ layout: section.typed
 ---
 
 ## hallo,
+
 ## Ik schrijf <span id="typed">zinnen die klinken</span>
