@@ -6,6 +6,7 @@ background_image: assets/images/b1.jpg
 is_dark_background: true
 is_fullscreen: true
 typewriter_words:
+- schrijf
 - zinnen die klinken
 - teksten die rollen
 - seo-content die klikt
