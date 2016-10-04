@@ -6,7 +6,6 @@ background_image: assets/images/b1.jpg
 is_dark_background: true
 is_fullscreen: true
 typewriter_words:
-- schrijf
 - zinnen die klinken
 - teksten die rollen
 - seo-content die klikt
@@ -17,4 +16,4 @@ layout: section.typed
 
 ## Zoek niet verder,
 
-## ik <span id="typed">schrijf</span>
+## ik schrijf <span id="typed">zinnen die klinken</span>
