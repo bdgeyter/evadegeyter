@@ -9,7 +9,6 @@ typewriter_words:
 - copywriter
 - seo-addict
 - digital content manager
-- communicatie-adviseur
 - en de rest...
 layout: section.typed
 ---
