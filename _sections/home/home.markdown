@@ -6,15 +6,15 @@ background_image: "/uploads/test-typewriter.png"
 is_dark_background: true
 is_fullscreen: true
 typewriter_words:
-- zinnen die klinken
-- teksten die rollen
-- seo-content die klikt
-- magazines die schitteren
-- webcontent die er staat
+- copywriter
+- seo-addict
+- digital content manager
+- communicatie-adviseur
+- en de rest
 layout: section.typed
 ---
 
-## Ik schrijf,
+## Ik ben freelance
 
-## <span id="typed">zinnen die klinken</span>
+## <span id="typed">copywriter</span>
 
