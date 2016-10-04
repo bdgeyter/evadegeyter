@@ -10,10 +10,10 @@ collections:
     output: false
   posts:
     title: Posts
-    output: true
+    output: false
   projects:
     title: Projects
-    output: true
+    output: false
   sections:
     title: Sections
     output: false
@@ -31,7 +31,6 @@ defaults:
     path: ''
     type: projects
   values:
-    layout: default.project
     client: 
     skills: 
     images: 
