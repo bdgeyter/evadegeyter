@@ -76,13 +76,13 @@ defaults:
     type: pages
   values:
     sections: 
-logo_title: Eva
+logo_title: EDG
 email: hallo@evadegeyter.be
-description: 'Eva De Geyter is freelance copywriter, journaliste en creatieve duizendpoot
+description: 'Eva De Geyter is freelance copywriter & digital content manager
 
 '
 background_image: "/assets/images/b1.jpg"
-baseurl: ''
+baseurl: 
 url: https://evadegeyter.be
 social:
 - network: pinterest
