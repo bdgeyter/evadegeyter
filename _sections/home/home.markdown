@@ -14,6 +14,5 @@ typewriter_words:
 layout: section.typed
 ---
 
-## Zoek niet verder,
 
-## ik schrijf <span id="typed">zinnen die klinken</span>
+## Ik schrijf <span id="typed">zinnen die klinken</span>
