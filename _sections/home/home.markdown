@@ -17,3 +17,4 @@ layout: section.typed
 ## Zoek niet verder,
 
 ## Ik schrijf <span id="typed">zinnen die klinken</span>
+
