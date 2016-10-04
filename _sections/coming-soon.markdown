@@ -6,7 +6,7 @@ background_image: "/assets/images/b1.jpg"
 is_dark_background: true
 is_fullscreen: true
 typewriter_words:
-- aan een nieuwe site
+- aan een nieuwe website
 layout: section.typed
 ---
 
