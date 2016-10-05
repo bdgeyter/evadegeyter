@@ -13,7 +13,7 @@ typewriter_words:
 layout: section.typed
 ---
 
-#### Ik ben freelance
+## Ik ben freelance
 
-#### <span id="typed">copywriter</span>
+## <span id="typed">copywriter</span>
 
