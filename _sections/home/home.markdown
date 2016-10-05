@@ -2,19 +2,18 @@
 title: Home
 date: 2016-09-20 07:53:00 Z
 position: 0
-background_image: assets/images/b1.jpg
+background_image: "/uploads/Schermafdruk%202016-10-05%2009.37.51.png"
 is_dark_background: true
 is_fullscreen: true
 typewriter_words:
-- zinnen die klinken
-- teksten die rollen
-- seo-content die klikt
-- magazines die schitteren
-- webcontent die er staat
+- copywriter
+- seo-addict
+- digital content manager
+- en de rest...
 layout: section.typed
 ---
 
-## Ik schrijf,
+## Ik ben freelance
 
-## <span id="typed">zinnen die klinken</span>
+## <span id="typed">copywriter</span>
 

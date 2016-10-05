@@ -6,8 +6,10 @@ background_image: "/assets/images/b1.jpg"
 is_dark_background: true
 is_fullscreen: true
 typewriter_words:
-- aan een nieuwe site
+- aan een nieuwe website
 layout: section.typed
 ---
 
-## We zijn bezig <span id="typed">aan een nieuwe site</span>
+## Wij werken 
+
+## <span id="typed">aan een nieuwe website</span>
