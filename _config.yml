@@ -87,7 +87,7 @@ url: https://evadegeyter.be
 fonts:
     import_url: 'https://fonts.googleapis.com/css?family=Amatic+SC|Quicksand'
     main_font_family: 'Amatic SC'
-    paragraph_font_family: 'Arial'
+    paragraph_font_family: 'Quicksand'
 theme_colour: #AFD6C3
 social:
 - network: pinterest
