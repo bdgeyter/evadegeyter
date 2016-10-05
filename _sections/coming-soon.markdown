@@ -11,4 +11,5 @@ layout: section.typed
 ---
 
 ## Wij werken 
+
 ## <span id="typed">aan een nieuwe website</span>
