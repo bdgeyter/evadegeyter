@@ -5,7 +5,7 @@
 $main-font-url: '{{ site.fonts.import_url }}';
 $main-font: '{{ site.fonts.main_font_family }}', monospace;
 $paragraph-font: '{{ site.fonts.paragraph_font_family }}', sans-serif;
-$theme-colour: '{{ site.theme_colour }}';
+$theme-colour: {{ site.theme_colour }};
 
 //Partials
 @import '_fonts';
