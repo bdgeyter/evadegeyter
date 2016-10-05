@@ -1,10 +1,16 @@
 ---
 ---
+//Definition of SASS font variables
+$main-font-url: '{{ site.fonts.import_url }}';
+$main-font: '{{ site.fonts.main_font_family }}', monospace;
+$paragraph-font: '{{ site.fonts.paragraph_font_family }}', sans-serif;
+$theme-colour: '{{ site.theme_colour }}';
 
-@import 'fonts';
-@import 'variables';
-@import 'style';
-@import 'experience';
-@import 'section';
-@import 'project';
-@import 'icon-group';
+//Partials
+@import '_fonts';
+@import '_variables';
+@import '_style';
+@import '_experience';
+@import '_section';
+@import '_project';
+@import '_icon-group';
