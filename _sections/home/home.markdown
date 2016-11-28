@@ -7,7 +7,6 @@ is_dark_background: true
 is_fullscreen: true
 typewriter_words:
 - copywriter
-- seo-addict
 - digital content manager
 - en de rest...
 layout: section.typed
