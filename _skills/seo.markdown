@@ -1,5 +1,5 @@
 ---
-title: Digital content management
+title: Digital content
 icon: icon-basic-webpage
 ---
 
