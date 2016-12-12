@@ -6,3 +6,4 @@ type:
   opleiding: true
 ---
 
+Psychologies Magazine, Decors, Interior Concepts, Flair, Feeling, Feeling Wonen, Libelle, Lannoo, Sqills, Colora, ...
