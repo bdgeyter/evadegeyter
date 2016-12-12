@@ -5,6 +5,6 @@ icon: icon-basic-notebook-pen
 
 **Diverse klanten**
 
-Psychologies, Decors, Interior Concepts, Flair, Feeling, Feeling Wonen, Libelle, Uitgeverij Lannoo, Colora, Sqills Content Marketing, …
+Flair, Feeling, Libelle, Psychologies, Decors, Interior Concepts, Uitgeverij Lannoo, Colora, Sqills Content Marketing, …
 
 **tekst - beeld**
