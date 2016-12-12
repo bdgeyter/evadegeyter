@@ -7,4 +7,4 @@ type:
   opleiding: false
 ---
 
-Productie & redactie: Reportage - Human Interest - Interieur
+productie & redactie: reportage - human interest - interieur
