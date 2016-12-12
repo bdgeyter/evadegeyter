@@ -1,6 +1,6 @@
 ---
-title: Copywriting
+title: Content management
 icon: icon-basic-notebook-pen
 ---
 
-Uitstekende copywriting skills
+Content waar lezers niet aan kunnen weerstaan.
