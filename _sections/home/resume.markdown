@@ -6,4 +6,3 @@ lists:
   experience: true
 ---
 
-### 10 jaar ervaring
