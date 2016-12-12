@@ -1,7 +1,7 @@
 ---
 title: Boeken
 position: 1
-icon: icon-basic-book
+icon: icon_book_alt
 ---
 
 **Uitgeverij Lannoo**
