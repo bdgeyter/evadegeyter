@@ -8,6 +8,6 @@ type:
   opleiding: false
 ---
 
-* PRODUCTIONS: kant-en-klare interieurproducties voor magazines : management, productie, tekst 
+PRODUCTIONS: kant-en-klare interieurproducties voor magazines : management, productie, tekst 
 
-* BLOG & DIGIMAG (app & desktop): management, content management, copy, productie, grafisch ontwerp
+BLOG & DIGIMAG (app & desktop): management, content management, copy, productie, grafisch ontwerp
