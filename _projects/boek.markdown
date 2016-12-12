@@ -9,4 +9,4 @@ services:
 cover_photo: "/uploads/Schermafdruk%202016-12-12%2022.10.10.png"
 ---
 
-Voor het Libelle Basiswoonboek grasduinde ik samen met collega
+Voor het Libelle Basiswoonboek ...
