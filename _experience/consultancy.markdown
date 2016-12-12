@@ -7,6 +7,6 @@ type:
   werk: true
 ---
 
-**Elaba! Gentse Feesten app:** concept - grafisch design - communicatie
-
 **Partena Ziekenfonds:** copywriting, content consultancy print & web, SEO
+
+**Elaba! Gentse Feesten app:** concept - grafisch design - communicatie
