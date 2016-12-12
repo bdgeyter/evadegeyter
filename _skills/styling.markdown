@@ -1,6 +1,6 @@
 ---
-title: Styling
+title: Creatieve concepten
 icon: icon-ecommerce-cart
 ---
 
-Stylisten gaan vaak shoppen
+**Elaba! Gentse feesten app:** concept - grafisch design - communicatie
