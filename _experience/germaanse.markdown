@@ -7,5 +7,5 @@ type:
   opleiding: true
 ---
 
-* Nederlands-Engels-Zweeds
-* Universiteit Gent
+## Nederlands-Engels-Zweeds
+## Universiteit Gent
