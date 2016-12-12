@@ -1,6 +1,6 @@
 ---
-title: Boeken
+title: Top-teksten
 icon: icon-basic-book
 ---
 
-Boeken schrijven is een hobby gelijk een ander
+Helder. Correct. Aantrekkelijk. Op maat van klant & lezer.
