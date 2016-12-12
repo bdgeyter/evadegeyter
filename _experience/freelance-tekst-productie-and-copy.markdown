@@ -1,7 +1,7 @@
 ---
 title: Freelance
 date: 2016-12-12 09:20:00 Z
-position: 4
+position: 3
 period: 2009 - 2012
 type:
   werk: true
