@@ -1,5 +1,6 @@
 ---
 title: Redactie & copywriting
+position: 0
 icon: icon-basic-notebook-pen
 ---
 
