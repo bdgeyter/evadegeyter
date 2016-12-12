@@ -1,7 +1,7 @@
 ---
 title: Poppinette blog & digimag
 date: 2016-12-12 09:34:00 Z
-position: 4
+position: 5
 period: 2013 - 2016
 type:
   werk: true
