@@ -5,6 +5,6 @@ icon: icon-basic-photo
 
 **Goed Gevoel, Ariadne, Libelle,...**
 
-Kant-en-klare interieurproducties voor lifestyle magazines.
+Creatie en verkoop van kant-en-klare interieurproducties voor diverse lifestyle magazines.
 
 **tekst - beeld - creatief concept**
