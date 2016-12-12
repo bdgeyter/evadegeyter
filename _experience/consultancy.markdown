@@ -1,5 +1,5 @@
 ---
-title: Content consultancy
+title: Content & Communication Consultancy
 date: 2016-12-12 10:02:00 Z
 type:
   werk: true
