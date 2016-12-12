@@ -1,6 +1,8 @@
 ---
-title: SEO
+title: Digital content management
 icon: icon-basic-webpage
 ---
 
-SEO is veel optimalisatiewerk
+**libelle.be:** coördinatie opstart - content management - webredactie
+
+**Poppinette blog: **management, copy,  content
