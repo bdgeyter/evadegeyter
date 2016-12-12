@@ -3,4 +3,6 @@ title: Boeken
 icon: icon-basic-book
 ---
 
-Lifestyle & non-fictie
+**Uitgeverij Lannoo**
+
+*Lifestyle - ghostwriting - non-fictie*
