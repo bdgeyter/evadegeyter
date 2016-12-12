@@ -7,6 +7,6 @@ type:
   opleiding: true
 ---
 
-* coördinatie opstart
-* content management
-* webredactie
+-coördinatie opstart
+-content management
+-webredactie
