@@ -2,6 +2,7 @@
 title: Libelle Basiswoonboek
 categories:
 - boeken
+client: Uitgeverij Lannoo
 skills:
 - Boeken
 - 
