@@ -5,6 +5,6 @@ icon: icon-basic-book
 
 **Uitgeverij Lannoo**
 
-Libelle Woonboek, Libelle Tuinboek, Helikoptermama, Wabi by Axel Vervoordt, Wat is dyslexie, Peeters & Pichal, ...
+Libelle Basiswoonboek, Libelle Basistuinboek, Helikoptermama, In het spoor van Wabi by Axel Vervoordt, Mijn kind heeft dyslexie, ...
 
 **tekst - beeld**
