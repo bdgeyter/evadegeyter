@@ -3,6 +3,6 @@ title: Digital content management
 icon: icon-basic-webpage
 ---
 
-**libelle.be:** coördinatie opstart - content management - webredactie
+**libelle.be en Poppinette blog** 
 
-**Poppinette blog:** management, copy,  content
+**coördinatie opstart - content management - copywriting - beeldredactie**
