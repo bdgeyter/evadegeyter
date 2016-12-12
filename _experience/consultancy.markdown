@@ -1,6 +1,7 @@
 ---
 title: Content & Communication Consultancy
 date: 2016-12-12 10:02:00 Z
+period: 2013 - nu
 type:
   werk: true
 ---
