@@ -3,8 +3,8 @@ title: Fotoproductie
 icon: icon-basic-photo
 ---
 
-**Poppinette Productions**
+**Goed Gevoel, Ariadne @Home, Libelle, KVLV Magazine**
 
-Kant-en-klare interieurproducties voor lifestyle magazines.
+Poppinette Productiones: Kant-en-klare interieurproducties voor lifestyle magazines.
 
-**management - productie -tekst**
+**management - productie - tekst**
