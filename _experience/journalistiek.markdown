@@ -1,10 +1,10 @@
 ---
-title: Journalistiek
+title: Postgraduaat journalistiek
 date: 2016-09-22 13:35:00 Z
-period: 1999-2003
+period: 2000-2001
 type:
   werk: false
   opleiding: true
 ---
 
-Erasmus Hogeschool Brussel
+Vlekho Brussel
