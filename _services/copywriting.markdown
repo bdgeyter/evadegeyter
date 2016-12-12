@@ -1,5 +1,5 @@
 ---
-title: Creatieve concepten
+title: Concept
 icon: icon-basic-notebook-pen
 ---
 
