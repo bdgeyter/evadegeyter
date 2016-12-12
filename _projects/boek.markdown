@@ -3,8 +3,10 @@ title: Libelle Basiswoonboek
 client: Uitgeverij Lannoo
 skills:
 - Boeken
-cover_photo: "/uploads/Libelle%20Basis%20woonboek.jpg"
-services: Tekst
+services:
+- Tekst
+- Beeld
+cover_photo: "/uploads/Schermafdruk%202016-12-12%2022.10.10.png"
 ---
 
 Voor het Libelle Basiswoonboek grasduinde ik samen met collega
