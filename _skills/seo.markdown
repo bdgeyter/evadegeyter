@@ -5,4 +5,4 @@ icon: icon-basic-webpage
 
 **libelle.be en Poppinette blog** 
 
-**coördinatie opstart - content management - copywriting - beeldredactie**
+**coördinatie opstart - concept - content management - copywriting - beeldredactie**
