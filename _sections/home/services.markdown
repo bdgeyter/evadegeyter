@@ -7,4 +7,4 @@ lists:
   services: true
 ---
 
-##### Dit kan ik voor je doen
+##### Ik crëeer content
