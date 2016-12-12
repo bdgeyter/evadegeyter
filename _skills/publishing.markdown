@@ -1,6 +1,6 @@
 ---
 title: Publishing
-position: 2
+position: 3
 icon: icon-ecommerce-cart
 ---
 

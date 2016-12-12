@@ -1,6 +1,6 @@
 ---
 title: Boeken
-position: 5
+position: 1
 icon: icon-basic-book
 ---
 
