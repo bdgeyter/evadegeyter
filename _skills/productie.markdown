@@ -7,4 +7,4 @@ icon: icon-basic-photo
 
 Creatie en verkoop van kant-en-klare interieurproducties voor lifestyle magazines.
 
-**tekst - beeld - creatief concept**
+**tekst - beeld - concept**
