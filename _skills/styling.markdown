@@ -1,6 +1,6 @@
 ---
 title: Apps
-position: 6
+position: 5
 icon: icon-basic-tablet
 ---
 
