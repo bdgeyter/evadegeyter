@@ -5,6 +5,6 @@ icon: icon-basic-tablet
 
 **Poppinette digimag**
 
-Digitaal lifestyle en crea-magazine in app- en desktop-versie.
+Creatie en uitvoering eigen digitaal lifestyle en crea-magazine.
 
 **management, content management, copy, productie, grafisch ontwerp**
