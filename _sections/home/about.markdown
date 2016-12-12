@@ -6,4 +6,4 @@ position: 0
 
 ##### bla bla over mij 
 
-![Schermafdruk 2016-12-12 13.38.30.png](/uploads/Schermafdruk%202016-12-12%2013.38.30.png)Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse faucibus odio vel pretium consectetur. Nunc tempor tristique lacus a dapibus. Aenean lobortis, quam et mollis imperdiet, sapien turpis tincidunt risus, quis rhoncus erat mauris rhoncus eros. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse faucibus odio vel pretium consectetur. Nunc tempor tristique lacus a dapibus. Aenean lobortis, quam et mollis imperdiet, sapien turpis tincidunt risus, quis rhoncus erat mauris rhoncus eros. 
