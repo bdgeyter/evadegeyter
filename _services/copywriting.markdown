@@ -1,6 +1,6 @@
 ---
-title: Content management
+title: Creatieve concepten
 icon: icon-basic-notebook-pen
 ---
 
-Content waar lezers niet aan kunnen weerstaan.
+Zoek je content waar lezers niet aan kunnen weerstaan? Laat mij meedenken over een uniek en gebruiksvriendelijk concept.
