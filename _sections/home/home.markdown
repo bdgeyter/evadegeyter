@@ -15,7 +15,3 @@ layout: section.typed
 ## Eva De Geyter
 
 ## <span id="typed">copywriting</span>
-
-## <span id="typed">digitale content</span>
-
-## <span id="typed">creatieve concepten</span>
