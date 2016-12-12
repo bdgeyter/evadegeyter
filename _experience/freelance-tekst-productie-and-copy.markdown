@@ -1,5 +1,5 @@
 ---
-title: Freelance tekst, productie & copy
+title: Freelance
 date: 2016-12-12 09:20:00 Z
 position: 4
 period: 2009 - 2012
@@ -8,4 +8,4 @@ type:
   opleiding: false
 ---
 
-Psychologies Magazine, Decors, Interior Concepts, Flair, Feeling, Feeling Wonen, Libelle, Lannoo, Colora, Sqills Content Marketing, ...
+TEKST - PRODUCTIE - COPYWRITING: Psychologies Magazine, Decors, Interior Concepts, Flair, Feeling, Feeling Wonen, Libelle, Lannoo, Colora, Sqills Content Marketing, ...
