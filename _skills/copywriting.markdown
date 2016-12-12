@@ -5,4 +5,4 @@ icon: icon-basic-notebook-pen
 
 Psychologies, Decors, Interior Concepts, Flair, Feeling, Feeling Wonen, Libelle, Uitgeverij Lannoo, Colora, Sqills Content Marketing, …
 
-\*Tekst - productie - ghostwriting - copywriting: \*
+*tekst - productie - ghostwriting - copywriting*
