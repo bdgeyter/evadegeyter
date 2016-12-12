@@ -1,5 +1,5 @@
 ---
-title: Digitale content
+title: Content
 icon: icon-basic-laptop
 ---
 
