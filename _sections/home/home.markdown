@@ -6,8 +6,9 @@ background_image: "/uploads/edg%20home%20image_2.jpg"
 is_dark_background: false
 is_fullscreen: true
 typewriter_words:
-- copywriter
-- "& digital content manager"
+- copywriting
+- digital content
+- creatieve concepten
 layout: section.typed
 ---
 
