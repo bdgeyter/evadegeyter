@@ -5,6 +5,6 @@ icon: icon-basic-webpage
 
 **libelle.be en Poppinette blog**
 
-Concept website, coördinatie opstart, website- en blogbeheer. 
+Concept website, coördinatie opstart, website- en blogbeheer.
 
-**concept - content management - copywriting - beeldredactie**
+**tekst - beeld - digitale content - creatief concept **
