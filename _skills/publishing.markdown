@@ -7,4 +7,4 @@ icon: icon-ecommerce-cart
 
 Creatie en uitvoering eigen digitaal lifestyle en crea-magazine.
 
-**tekst - beeld - digitale content - creatief concept**
+**tekst - beeld - content - concept**
