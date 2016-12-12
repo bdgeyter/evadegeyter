@@ -1,10 +1,10 @@
 ---
-title: Poppinette
+title: Poppinette Productions
 date: 2016-09-22 13:35:00 Z
-period: 2010-present
+period: 2012 - 2016
 type:
   werk: true
   opleiding: false
 ---
 
-self employed
+kant-en-klare interieurproducties voor magazines : management, productie, tekst
