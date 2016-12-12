@@ -11,7 +11,9 @@ typewriter_words:
 layout: section.typed
 ---
 
-## Ik ben freelance
+## Eva De Geyter
 
-## <span id="typed">copywriter</span>
+## <span id="typed">tekst & beeld</span>
+## <span id="typed">digitale content</span>
+## <span id="typed">creatieve concepten</span>
 
