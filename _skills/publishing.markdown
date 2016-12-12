@@ -7,4 +7,4 @@ icon: icon-ecommerce-cart
 
 Creatie en uitvoering eigen digitaal lifestyle en crea-magazine.
 
-**management, content management, copy, productie, grafisch ontwerp**
+**management, copywriting, productie, grafisch ontwerp**
