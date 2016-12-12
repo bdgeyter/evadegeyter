@@ -7,4 +7,4 @@ icon: icon-basic-book
 
 Libelle Woonboek, Libelle Tuinboek, Helikoptermama, Wabi by Axel Vervoordt, Wat is dyslexie, Peeters & Pichal, ...
 
-**lifestyle - ghostwriting - non-fictie**
+**tekst - beeld**
