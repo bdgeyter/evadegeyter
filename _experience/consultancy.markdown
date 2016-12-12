@@ -7,4 +7,4 @@ type:
   werk: true
 ---
 
-ELABA! GENTSE FEESTEN APP: concept - communicatie - grafisch ontwerp               PARTENA ZIEKENFONDS: on-site copywriting, content consultancy print & web, SEO
+* ELABA! GENTSE FEESTEN APP: concept & UI - communicatie * PARTENA ZIEKENFONDS: on-site copywriting, content consultancy print & web, SEO
