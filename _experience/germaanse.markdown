@@ -1,5 +1,5 @@
 ---
-title: Germaanse Talen
+title: Opleiding
 date: 2016-09-22 13:35:00 Z
 period: 1996-2000
 type:
@@ -7,4 +7,4 @@ type:
   opleiding: true
 ---
 
-Nederlands-Engels-Zweeds - Universiteit Gent
+Germaanste Talen (Nederlands-Engels-Zweeds), Universiteit Gent - Postgraduaat Journalistiek, Vlekho Brussel
