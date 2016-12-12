@@ -3,7 +3,7 @@ title: Apps
 icon: icon-basic-tablet
 ---
 
-**Elaba! sociale netwerk-app Gentse Feesten, Poppinette digimag app**
+**Elaba! app Gentse Feesten, Poppinette digimag**
 
 Concept uitwerken, coördinatie opstart, contentbeheer.
 
