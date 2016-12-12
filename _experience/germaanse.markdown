@@ -7,4 +7,4 @@ type:
   opleiding: true
 ---
 
-Germaanste Talen (Nederlands-Engels-Zweeds), Universiteit Gent - Postgraduaat Journalistiek, Vlekho Brussel
+Nederlands-Engels-Zweeds, Universiteit Gent - Postgraduaat Journalistiek, Vlekho Brussel
