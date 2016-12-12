@@ -3,7 +3,7 @@ title: Creatieve concepten
 icon: icon-ecommerce-cart
 ---
 
-**Elaba! Gentse feesten app:** 
+**Elaba! app:** 
 
 Sociale netwerk-app voor de Gentse Feesten.
 
