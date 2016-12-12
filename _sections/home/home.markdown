@@ -7,7 +7,7 @@ is_dark_background: false
 is_fullscreen: true
 typewriter_words:
 - copywriting
-- digital content
+- digitale content
 - creatieve concepten
 layout: section.typed
 ---
