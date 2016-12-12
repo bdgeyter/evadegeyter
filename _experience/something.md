@@ -4,8 +4,8 @@ date: 2016-09-22 13:35:00 Z
 position: 5
 period: 2005 - 2009
 type:
-  werk: false
-  opleiding: true
+  werk: true
+  opleiding: false
 ---
 
 coördinatie opstart - content management - webredactie
