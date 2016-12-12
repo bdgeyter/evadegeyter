@@ -7,4 +7,4 @@ type:
   opleiding: true
 ---
 
-Nederlands-Engels-Zweeds, Universiteit Gent - Postgraduaat Journalistiek, Vlekho Brussel
+Taal- & Letterkunde: Nederlands-Engels-Zweeds, Universiteit Gent - Postgraduaat Journalistiek, Vlekho Brussel
