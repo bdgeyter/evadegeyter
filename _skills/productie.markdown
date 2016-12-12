@@ -3,7 +3,8 @@ title: Productie
 icon: icon-basic-photo
 ---
 
+**Poppinette Productions**
+
 Kant-en-klare interieurproducties voor lifestyle magazines.
 
-**Poppinette Productions**
 *management - productie -tekst*
