@@ -1,6 +1,6 @@
 ---
 title: Publishing
-icon: icon-basic-tablet
+icon: icon-ecommerce-cart
 ---
 
 **Poppinette digimag**
