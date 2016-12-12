@@ -3,4 +3,4 @@ title: Digitale content
 icon: icon-basic-laptop
 ---
 
-SEO-proof, fijn om te lezen, aandacht voor tekst en beeld.
+Ik vul je website met aantrekkelijke content: SEO-proof, fijn om te lezen, met aandacht voor tekst en beeld.
