@@ -8,4 +8,4 @@ type:
   opleiding: false
 ---
 
-MAGAZINE: productie & redactie: reportage - human interest - interieur LIBELLE.BE: coördinatie opstart - content management - webredactie
+**Magazine: **productie & redactie: reportage - human interest - interieur **libelle.be:** coördinatie opstart - content management - webredactie
