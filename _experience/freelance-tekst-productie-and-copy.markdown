@@ -1,7 +1,7 @@
 ---
 title: Freelance tekst, productie & copy
 date: 2016-12-12 09:20:00 Z
-position: 8
+position: 4
 period: 2009 - 2012
 type:
   werk: true
