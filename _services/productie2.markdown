@@ -1,5 +1,6 @@
 ---
 title: Beeld
+position: 2
 icon: icon-basic-photo
 ---
 

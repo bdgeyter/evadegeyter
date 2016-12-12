@@ -1,5 +1,6 @@
 ---
 title: Tekst
+position: 3
 icon: icon-basic-book
 ---
 
