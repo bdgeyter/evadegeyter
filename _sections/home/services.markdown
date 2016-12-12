@@ -7,4 +7,4 @@ lists:
   services: true
 ---
 
-## Klinkklare content
+## Copy, content, communicatie
