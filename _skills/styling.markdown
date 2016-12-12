@@ -7,4 +7,4 @@ icon: icon-basic-tablet
 
 Concept uitwerken, coördinatie opstart, contentbeheer.
 
-**concept - grafisch ontwerp - communicatie**
+**tekst - beeld - digitale content - creatief concept**
