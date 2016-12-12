@@ -1,5 +1,5 @@
 ---
-title: Top-teksten
+title: Tekst
 icon: icon-basic-book
 ---
 
