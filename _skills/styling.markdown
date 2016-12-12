@@ -1,6 +1,6 @@
 ---
 title: Apps
-icon: icon-ecommerce-cart
+icon: icon-basic-tablet
 ---
 
 **Elaba!: **sociale netwerk-app voor de Gentse Feesten 
