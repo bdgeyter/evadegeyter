@@ -6,4 +6,4 @@ type:
   opleiding: true
 ---
 
-Photoshop, html, CMS-beheer, Wordpress, Sitecore,... - selfmade
+Photoshop, html, CMS-beheer, Wordpress, Sitecore,... 
