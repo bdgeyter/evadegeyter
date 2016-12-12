@@ -7,8 +7,7 @@ is_dark_background: true
 is_fullscreen: true
 typewriter_words:
 - copywriter
-- digital content manager
-- en de rest...
+- "& digital content manager"
 layout: section.typed
 ---
 
