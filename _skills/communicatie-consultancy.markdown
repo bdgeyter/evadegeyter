@@ -8,4 +8,4 @@ icon: icon-basic-webpage
 
 Ledenmagazine Profiel, newsletters, website en blog, klantencommunicatie, SEO-optimalisatie.
 
-**tekst - beeld - digitale content**
+**tekst - beeld - content**
