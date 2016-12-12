@@ -3,4 +3,4 @@ title: Productie
 icon: icon-basic-photo
 ---
 
-Producties zijn het einde!
+Poppinette Productions - Kant-en-klare interieurproducties voor lifestyle magazines: management, productie, tekst
