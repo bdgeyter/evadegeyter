@@ -1,10 +1,8 @@
 ---
-title: Creatieve concepten
+title: Apps
 icon: icon-ecommerce-cart
 ---
 
-**Elaba! app:** 
+**Elaba!: **sociale netwerk-app voor de Gentse Feesten 
 
-Sociale netwerk-app voor de Gentse Feesten.
-
-concept - grafisch design - communicatie
+**Po**ppinette digimag app: digitaal magazine in app-versie
