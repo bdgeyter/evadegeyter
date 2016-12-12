@@ -1,5 +1,5 @@
 ---
-title: In beeld
+title: Beeld
 icon: icon-basic-photo
 ---
 
