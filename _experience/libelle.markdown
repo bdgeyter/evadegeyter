@@ -1,11 +1,11 @@
 ---
-title: Libelle print
+title: Libelle magazine & libelle.be
 date: 2016-09-22 13:35:00 Z
 position: 2
-period: 2001 - 2008
+period: 2001 - 2009
 type:
   werk: true
   opleiding: false
 ---
 
-productie & redactie: reportage - human interest - interieur
+* MAGAZINE: productie & redactie: reportage - human interest - interieur * LIBELLE.BE: coördinatie opstart - content management - webredactie
