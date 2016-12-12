@@ -7,4 +7,4 @@ icon: icon-basic-webpage
 
 Concept website, coördinatie opstart, website- en blogbeheer.
 
-**tekst - beeld - digitale content - creatief concept**
+**tekst - beeld - content - concept**
