@@ -6,4 +6,4 @@ lists:
   experience: true
 ---
 
-\# opleiding & werk
+\## opleiding & ervaring
