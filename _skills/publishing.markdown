@@ -3,8 +3,8 @@ title: Publishing
 icon: icon-basic-tablet
 ---
 
-**Poppinette digimag **
+**Poppinette digimag**
 
 Digitaal lifestyle en crea-magazine in app- en desktop-versie.
 
-management, content management, copy, productie, grafisch ontwerp
+**management, content management, copy, productie, grafisch ontwerp**
