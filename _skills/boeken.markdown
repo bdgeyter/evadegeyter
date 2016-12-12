@@ -5,4 +5,6 @@ icon: icon-basic-book
 
 **Uitgeverij Lannoo**
 
-*Lifestyle - ghostwriting - non-fictie*
+Libelle Woonboek, Libelle Tuinboek, Helikoptermama, Wabi by Axel Vervoordt, Wat is dyslexie, Peeters & Pichal, ...
+
+**lifestyle - ghostwriting - non-fictie**
