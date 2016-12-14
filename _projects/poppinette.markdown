@@ -3,6 +3,7 @@ title: Poppinette
 categories:
 - styling
 - nog iets
+client: Uitgeverij Lannoo
 skills:
 - copywriting
 images:
