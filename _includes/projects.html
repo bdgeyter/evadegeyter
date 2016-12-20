@@ -52,12 +52,12 @@
                 <div class="col-md-4">
                   <h4>Klant</h4>
                   {{project.clients | join: ' '}}
-                  {% unless projects.clients %}
+                  {% unless project.clients %}
                   nvt
                   {% endunless%}
                 </div>
                 <div class="col-md-4">
-                <h4>Ervaring</h4>
+                <h4>Vaardigheden</h4>
                   {{project.skills | join: ' '}}
                 </div>
                 <div class="col-md-4">

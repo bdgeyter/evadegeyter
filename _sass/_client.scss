@@ -1,0 +1,53 @@
+.client-group {
+    padding-top: 40px;
+
+    &-item {
+        min-height: 160px;
+        padding: 15px;
+        @media (min-width: 768px) {
+            border-right: 2px solid $theme-colour;
+        }
+        border-bottom: 2px solid $theme-colour;
+        -webkit-transition: all .25s ease-in-out;
+        transition: all .25s ease-in-out;
+    
+        
+        &:hover {
+            background-color: $theme-colour;
+        }
+        
+        &-3 {
+            border-right: 0px solid;   
+        }
+
+        .logo {
+            font-size: 40px;
+            color: #222;
+            height:200px;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: contain;   
+        }
+
+        span {
+            text-transform: uppercase;
+            font-size: 16px;
+            font-weight: 600;
+            letter-spacing: 2px;
+            line-height: 40px;
+            text-align: center;
+        }
+
+        p {
+            font-size: 16px;
+            line-height: 20px;
+            color: #222;
+        }
+    }
+    
+    &-0 {
+        @media (min-width: 768px) {
+            border-bottom: 0px solid;
+        }
+    }
+}

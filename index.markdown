@@ -5,9 +5,8 @@ sections:
 - Home
 - Over mij
 - Diensten
-- Curriculum
-- Ervaring
 - Portfolio
+- Klanten
 - Contact
 layout: default.sections
 ---

@@ -1,0 +1,9 @@
+<div class="row client-group">
+  {% for item in site.clients %}
+    {% assign length =  forloop.length | minus: 1 | divided_by: 3 | floor %}
+    {% assign index = forloop.index | minus: 1 | divided_by: 3 | floor %}
+  <div class="col-sm-4 client-group-item client-group-item-{{ forloop.index | plus: -1 | modulo: 3 | plus: 1}} client-group-{{ length | minus: index }}">
+    <a href="{{item.link}}"><div class="logo overlay" style="background-image:url('{{ item.logo }}');"></div></a>
+  </div>
+  {% endfor %}
+</div>
