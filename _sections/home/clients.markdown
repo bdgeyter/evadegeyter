@@ -7,4 +7,3 @@ lists:
   clients: true
 ---
 
-##### In Me They Trust
