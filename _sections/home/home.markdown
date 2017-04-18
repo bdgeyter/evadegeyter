@@ -13,6 +13,6 @@ typewriter_words:
 layout: section.typed
 ---
 
-### Eva De Geyter
+#### Eva De Geyter
 
-#### <span id="typed">tekst</span>
+##### <span id="typed">tekst</span>
