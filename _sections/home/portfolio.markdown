@@ -6,5 +6,4 @@ lists:
   projects: true
 ---
 
-##### Om trots op te zijn
 
