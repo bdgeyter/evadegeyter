@@ -6,4 +6,4 @@ icon: icon-basic-photo
 
 Ik zoek het juiste beeld bij je digitale content, en plan je print-project met oog voor visuele details.
 
-**beeldconcept - productie - beeldbewerking**
+**beeldconcept - productie - fotoselectie - beeldbewerking**
