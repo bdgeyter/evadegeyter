@@ -1,5 +1,5 @@
 ---
-title: Coming soon
+title: Eva De Geyter
 date: 2016-09-29 14:42:00 Z
 position: 0
 background_image: "/uploads/website_wallpaper_evadegeyter.jpg"
