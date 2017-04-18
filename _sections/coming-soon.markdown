@@ -10,6 +10,6 @@ typewriter_words:
 layout: section.typed
 ---
 
-## Wij werken 
+# Wij werken 
 
-## <span id="typed">aan een nieuwe website</span>
+# <span id="typed">aan een nieuwe website</span>
