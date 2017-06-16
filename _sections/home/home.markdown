@@ -7,9 +7,6 @@ is_dark_background: false
 is_fullscreen: true
 typewriter_words:
 - In the end we'll all become stories
-- beeld
-- 'content '
-- concept
 layout: section.typed
 ---
 
