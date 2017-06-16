@@ -7,11 +7,12 @@ is_dark_background: false
 is_fullscreen: true
 typewriter_words:
 - In the end we'll all become stories
+- 
 layout: section.typed
 ---
 
 #### Eva De Geyter
 
-##### tekst - beeld - content - concept
+##### <span id="typed">tekst - beeld - content - concept</span>
 
-###### <span id="typed">In the end we'll all become stories</span>
+###### In the end we'll all become stories 
