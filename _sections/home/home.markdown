@@ -15,4 +15,6 @@ layout: section.typed
 
 #### Eva De Geyter
 
+##### tekst - beeld - content - concept
+
 ##### <span id="typed">tekst</span>
