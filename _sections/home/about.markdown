@@ -9,4 +9,5 @@ position: 0
 
 Ik schrijf voor de kost. En vertel uw verhaal. Op papier of digitaal. Met tekst, of beeld, of allebei. 
 
+
 Ik creëer wat u wilt vertellen. Maar vooral: wat anderen willen lezen, horen of zien. 
