@@ -2,7 +2,7 @@
 title: Home
 date: 2016-09-20 07:53:00 Z
 position: 0
-background_image: "/uploads/edg%20home%20image_2.jpg"
+background_image: "/uploads/desktop%20tester.png"
 is_dark_background: false
 is_fullscreen: true
 typewriter_words:
