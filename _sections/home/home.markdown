@@ -14,4 +14,4 @@ layout: section.typed
 
 ##### tekst - beeld - content - concept
 
-####### <span id="typed">In the end we'll all become stories</span>
+###### <span id="typed">In the end we'll all become stories</span>
