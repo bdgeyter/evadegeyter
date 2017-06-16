@@ -17,4 +17,4 @@ layout: section.typed
 
 ##### tekst - beeld - content - concept
 
-##### <span id="typed">tekst</span>
+####### <span id="typed">tekst</span>
