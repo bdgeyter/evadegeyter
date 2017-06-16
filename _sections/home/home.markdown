@@ -12,7 +12,7 @@ layout: section.typed
 
 #### Eva De Geyter
 
-##### <span id="typed">tekst - beeld - content - concept</span>
+###### <span id="typed">tekst - beeld - content - concept</span>
 
 
 In the end we'll all become stories 
