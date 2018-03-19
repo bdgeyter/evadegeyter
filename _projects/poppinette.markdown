@@ -1,8 +1,10 @@
 ---
 title: Poppinette
 categories:
-- styling
-- nog iets
+- tekst
+- content
+- concept
+- beeld
 client: Uitgeverij Lannoo
 skills:
 - copywriting
