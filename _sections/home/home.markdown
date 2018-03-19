@@ -2,12 +2,12 @@
 title: Home
 date: 2016-09-20 07:53:00 Z
 position: 0
+image: "/uploads/bureaublad.jpg"
 background_color: "#7ba8bd"
 is_dark_background: true
 is_fullscreen: true
 typewriter_words:
 - tekst - beeld - content - concept
-image: "/uploads/bureaublad.jpg"
 layout: section.typed
 ---
 
