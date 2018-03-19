@@ -7,7 +7,6 @@ sections:
 - Diensten
 - Portfolio
 - Ervaring
-- Klanten
 - Contact
 layout: default.sections
 ---
