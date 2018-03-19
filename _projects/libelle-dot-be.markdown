@@ -7,5 +7,6 @@ categories:
 client: Libelle
 skills: Digital content
 images: "/uploads/Schermafdruk%202016-12-12%2022.10.10.png"
+cover_photo: "/uploads/Schermafdruk%202016-12-12%2022.10.10.png"
 ---
 
