@@ -5,6 +5,7 @@ sections:
 - Home
 - Over mij
 - Diensten
+- Ervaring
 - Portfolio
 - Klanten
 - Contact
