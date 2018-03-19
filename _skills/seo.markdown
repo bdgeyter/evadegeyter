@@ -4,7 +4,7 @@ position: 3
 icon: icon-basic-webpage
 ---
 
-**libelle.be, Poppinette blog, partena-ziekenfonds.be**
+**Libelle, Poppinette, Partena Ziekenfonds**
 
 Concept website, coördinatie opstart, website- en blogbeheer.
 
