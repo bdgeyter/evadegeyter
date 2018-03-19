@@ -4,7 +4,7 @@ position: 1
 icon: icon_book_alt
 ---
 
-**Uitgeverij Lannoo**
+**Diverse klanten**
 
 Libelle Basiswoonboek, Libelle Basistuinboek, Helikoptermama, In het spoor van Wabi by Axel Vervoordt, Mijn kind heeft dyslexie, ...
 
