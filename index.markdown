@@ -4,10 +4,10 @@ date: 2016-09-20 07:43:00 Z
 sections:
 - Home
 - Over mij
-- Diensten
-- Portfolio
-- Ervaring
 - CV
+- Ervaring
+- Portfolio
+- Diensten
 - Contact
 layout: default.sections
 ---
