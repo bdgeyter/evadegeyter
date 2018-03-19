@@ -10,7 +10,7 @@ typewriter_words:
 layout: section.typed
 ---
 
-##### Eva De Geyter
+![bureaublad.jpg](/uploads/bureaublad.jpg)##### Eva De Geyter
 
 ###### <span id="typed">tekst - beeld - content - concept</span>
 
