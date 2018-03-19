@@ -7,6 +7,7 @@ is_dark_background: true
 is_fullscreen: true
 typewriter_words:
 - tekst - beeld - content - concept
+image: "/uploads/bureaublad.jpg"
 layout: section.typed
 ---
 
