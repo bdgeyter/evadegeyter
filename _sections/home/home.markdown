@@ -2,7 +2,6 @@
 title: Home
 date: 2016-09-20 07:53:00 Z
 position: 0
-background_color: "#7ba8bd"
 image: "/uploads/bureaublad-2.jpg"
 is_dark_background: true
 is_fullscreen: true
