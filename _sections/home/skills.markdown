@@ -7,4 +7,3 @@ lists:
   skills: true
 ---
 
-##### Been there, done that
