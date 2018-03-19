@@ -1,8 +1,8 @@
 ---
 title: Libelle Basiswoonboek
 categories:
-- Tekst-
-- Concept-
+- Concept
+- Tekst
 - Beeld
 client: Uitgeverij Lannoo
 skills: Redactie & copywriting
