@@ -5,5 +5,8 @@ categories:
 - Concept
 - Content
 - Beeld
+client: Palaplu
+skills: Apps
+images: "/uploads/Schermafdruk%202016-12-12%2022.10.10.png"
 ---
 
