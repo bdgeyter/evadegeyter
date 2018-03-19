@@ -7,6 +7,6 @@ icon: icon-basic-webpage
 
 **Partena Ziekenfonds**
 
-Ledenmagazine Profiel, newsletters, website en blog, klantencommunicatie, SEO-optimalisatie.
+Ledenmagazine Profiel, newsletters, website en blog, klantencommunicatie, SEO-optimalisatie, campagnes.
 
 **tekst - beeld - content**
