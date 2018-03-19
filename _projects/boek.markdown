@@ -1,7 +1,9 @@
 ---
 title: Libelle Basiswoonboek
 categories:
-- Boeken
+- tekst
+- concept
+- beeld
 client: Uitgeverij Lannoo
 skills: Boeken
 cover_photo: "/uploads/Schermafdruk%202016-12-12%2022.10.10.png"
