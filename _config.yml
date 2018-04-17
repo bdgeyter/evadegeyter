@@ -65,6 +65,8 @@ defaults:
   values:
     background_color: 
     background_image: 
+    is_dark_background: 
+    is_fullscreen: 
     layout: section
     lists:
       projects: false
