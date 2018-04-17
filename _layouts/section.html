@@ -1,4 +1,4 @@
-<section id="page-{{ page.slug }}" style="{% if page.background_color %}background-color: #{{ page.background_color }};{% endif %}
+<section id="page-{{ page.slug }}" style="{% if page.background_color %}background-color: {{ page.background_color }};{% endif %}
                                           {% if page.background_image %}background:url({{ page.background_image }}) center repeat; background-size: cover;{% endif %}
                                           {% if page.style %}{{ page.style }}{% endif %}"
          class="section{% if page.is_dark_background %} dark{% endif %}{% if page.is_fullscreen %} fullscreen{% endif %}">
