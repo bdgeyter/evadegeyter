@@ -63,8 +63,8 @@ defaults:
     path: ''
     type: sections
   values:
-    background_color:
-    background_image:
+    background_color: 
+    background_image: 
     layout: section
     lists:
       projects: false
