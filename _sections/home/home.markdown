@@ -10,6 +10,4 @@ typewriter_words:
 layout: section.typed
 ---
 
-##### Eva De Geyter
-
 ###### <span id="typed">content consultant</span>
