@@ -14,4 +14,4 @@ layout: section.typed
 ---
 
 ###### <span id="typed">tekst, beeld, content, concept</span>
-#####<span id="typed">content consultant</span>
+content consultant
