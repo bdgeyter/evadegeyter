@@ -1,9 +1,7 @@
 ---
-title: Apps
+title: Content manager
 position: 5
 icon: icon-basic-tablet
 ---
 
-**Elaba! app, Poppinette digimag**
-
-Concept uitwerken, coördinatie opstart, contentbeheer.
+Partena Ziekenfonds web & print, Elaba Gentse Feesten app
