@@ -5,7 +5,7 @@ sections:
 - Content Consultant
 - Wat kan ik voor je doen?
 - Diensten
-- Mijn parcours
+- 
 - Skills
 - Portfolio
 - Contact
