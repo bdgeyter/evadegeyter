@@ -5,7 +5,8 @@ position: 0
 typewriter_words: tekst
 ---
 
-![logo-klein.png](/uploads/logo-klein.png)###### <span id="typed">tekst - beeld - content -  concept</span>
+![logo-klein.png](/uploads/logo-klein.png)
+###### <span id="typed">tekst - beeld - content -  concept</span>
 
 Schrijven zit in mijn DNA, grafisch ontwerp is een passie, en ideeën digitaliseren een tweede natuur. 
 
