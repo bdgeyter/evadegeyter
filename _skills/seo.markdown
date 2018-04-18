@@ -1,9 +1,7 @@
 ---
-title: Digital content
+title: Journalist/web manager
 position: 3
 icon: icon-basic-webpage
 ---
 
-**Libelle, Poppinette, Partena**
-
-Concept website, coördinatie opstart, website- en blogbeheer.
+Libelle & libelle.be
