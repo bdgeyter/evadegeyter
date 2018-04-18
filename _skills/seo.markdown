@@ -1,7 +1,8 @@
 ---
-title: Journalist/web manager
+title: Content consultancy
 position: 3
 icon: icon-basic-webpage
 ---
 
-Libelle & libelle.be
+**Partena Ziekenfonds**
+Ledenmagazine Profiel, newsletters, website en blog, klantencommunicatie, SEO-optimalisatie, campagnes.
