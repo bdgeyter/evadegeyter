@@ -1,9 +1,7 @@
 ---
-title: Redactie & copywriting
+title: Journalist & copywriter
 position: 0
 icon: icon-basic-notebook-pen
 ---
 
-**Diverse klanten**
-
-Flair, Feeling, Libelle, Psychologies, Decors, Uitgeverij Lannoo, Colora, Sqills Content Marketing, Partena Ziekenfonds…
+Psychologies, Decors, Interior Concepts, Flair, Feeling, Libelle, Lannoo, Colora, Sqills, …
