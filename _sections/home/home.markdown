@@ -6,8 +6,8 @@ background_image: "/uploads/fietslogo_test_3.png"
 is_dark_background: false
 is_fullscreen: true
 typewriter_words:
-- content consultant
+- In the end, we all become stories
 layout: section.typed
 ---
 
-###### <span id="typed">content consultant</span>
+###### <span id="typed">In the end, we al become stories</span>
