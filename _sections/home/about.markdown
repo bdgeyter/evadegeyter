@@ -4,7 +4,9 @@ date: 2016-09-20 07:53:00 Z
 position: 0
 ---
 
-> Schrijven zit in mijn DNA, grafisch ontwerp is een passie, en ideeën digitaliseren een tweede natuur. 
+###### <span id="typed">tekst, beeld, content, concept</span>
+
+Schrijven zit in mijn DNA, grafisch ontwerp is een passie, en ideeën digitaliseren een tweede natuur. 
 
 Vertrouw op mij voor tekst, beeld, webcontent en creatieve concepten. 
 
