@@ -6,7 +6,10 @@ background_image: "/uploads/bureaublad-6.jpg"
 is_dark_background: false
 is_fullscreen: true
 typewriter_words:
-- bla bla bla bla bla bla
+- bla
+- bla bla
+- " bla bla bla"
+- content consultant nodig?
 layout: section.typed
 ---
 
