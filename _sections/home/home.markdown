@@ -6,7 +6,7 @@ background_image: "/uploads/fietslogo_test.png"
 is_dark_background: false
 is_fullscreen: true
 typewriter_words:
-- tekst - beeld - content - concept
+- content consultant
 layout: section.typed
 ---
 
