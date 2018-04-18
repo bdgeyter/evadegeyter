@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Content Consultant
 date: 2016-09-20 07:53:00 Z
 position: 0
 background_image: "/uploads/fietslogo_test_3.png"
