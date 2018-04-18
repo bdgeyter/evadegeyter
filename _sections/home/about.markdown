@@ -4,9 +4,9 @@ date: 2016-09-20 07:53:00 Z
 position: 0
 ---
 
-![logo-klein.png](/uploads/logo-klein.png)
+![logo-klein.png](/uploads/logo-klein.png)**Sprakeloos?**
 
-Op zoek naar de juiste content voor je bedrijf? Ik help het je te vinden.
+Ik geef je boodschap vorm, en je bedrijf de juiste stem. 
 
 Schrijven zit in mijn DNA, grafisch ontwerp is een passie, en ideeën digitaliseren werd een tweede natuur. 
 
