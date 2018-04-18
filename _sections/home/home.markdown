@@ -6,8 +6,8 @@ background_image: "/uploads/bureaublad-6.jpg"
 is_dark_background: false
 is_fullscreen: true
 typewriter_words:
-- bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+- bla bla bla bla bla bla
 layout: section.typed
 ---
 
-##### <span id="typed">bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</span>
+##### <span id="typed">bla bla bla bla bla bla</span>
