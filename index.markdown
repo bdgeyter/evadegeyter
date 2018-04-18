@@ -6,7 +6,7 @@ sections:
 - Wat kan ik voor je doen?
 - Reken op mij voor
 - Portfolio
-- Skills
+- Mijn parcours
 - Contact
 layout: default.sections
 ---
