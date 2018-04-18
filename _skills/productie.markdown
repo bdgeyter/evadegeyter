@@ -1,9 +1,7 @@
 ---
-title: Fotoproductie
+title: Zaakvoerder
 position: 2
 icon: icon-basic-photo
 ---
 
-**Goed Gevoel, Ariadne, Libelle,...**
-
-Creatie en verkoop van interieurproducties voor lifestyle magazines. Gebruiksklare pakketten van tekst en beeld.
+Poppinette picture agency, blog & digital magazine
