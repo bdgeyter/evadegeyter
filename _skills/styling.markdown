@@ -1,7 +1,8 @@
 ---
-title: Content manager
+title: Digital content management
 position: 0
 icon: icon-basic-tablet
 ---
 
-Partena Ziekenfonds web & print, Elaba Gentse Feesten app
+**Libelle, Poppinette, Partena**
+Concept website, coördinatie opstart, website- en blogbeheer.
