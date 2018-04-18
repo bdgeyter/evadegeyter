@@ -2,6 +2,7 @@
 title: Wat kan ik voor je doen?
 date: 2016-09-20 07:53:00 Z
 position: 0
+typewriter_words: 
 ---
 
 ###### <span id="typed">tekst, beeld, content, concept</span>
