@@ -1,7 +1,8 @@
 ---
-title: Zaakvoerder
+title: Publishing
 position: 1
 icon: icon-basic-photo
 ---
 
-Poppinette picture agency, blog & digital magazine
+**Poppinette Digimag**
+Creatie en publicatie van eigen digitaal lifestyle magazine, desktop & app.
