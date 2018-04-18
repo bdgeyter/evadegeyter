@@ -13,6 +13,3 @@ layout: section.typed
 ##### Eva De Geyter
 
 ###### <span id="typed">content consultant</span>
-
-
-In the end, we all become stories 
