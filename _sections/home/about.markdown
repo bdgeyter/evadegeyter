@@ -6,6 +6,8 @@ position: 0
 
 ![logo-klein.png](/uploads/logo-klein.png)
 
+Op zoek naar de juiste content voor je bedrijf? Ik help het je te vinden.
+
 Schrijven zit in mijn DNA, grafisch ontwerp is een passie, en ideeën digitaliseren werd een tweede natuur. 
 
 Vertrouw op mij voor tekst, beeld, content, en creatieve concepten. 
