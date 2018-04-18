@@ -1,5 +1,5 @@
 ---
-title: Journalist & copywriter
+title: Journalist/copywriter
 position: 0
 icon: icon-basic-notebook-pen
 ---
