@@ -2,7 +2,7 @@
 title: Content Consultant
 date: 2016-09-20 07:53:00 Z
 position: 0
-background_image: "/uploads/fietslogo_test_3.png"
+background_image: "/uploads/fietslogo_test_4.png"
 is_dark_background: false
 is_fullscreen: true
 typewriter_words:
