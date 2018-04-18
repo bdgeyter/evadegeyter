@@ -7,9 +7,9 @@ is_dark_background: false
 is_fullscreen: true
 typewriter_words:
 - In the end
-- we all become stories
+- we all become
+- stories
 layout: section.typed
 ---
 
-###### <span id="typed">in the end</span>
-###### <span id="typed">we al become stories</span>
+###### <span id="typed">in the end we all become stories</span>
