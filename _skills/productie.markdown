@@ -1,6 +1,6 @@
 ---
 title: Zaakvoerder
-position: 2
+position: 1
 icon: icon-basic-photo
 ---
 
