@@ -6,8 +6,7 @@ background_image: "/uploads/bureaublad_3.png"
 is_dark_background: false
 is_fullscreen: true
 typewriter_words:
-- In the end
-- we all become
+- In the end, we all become
 - stories
 layout: section.typed
 ---
