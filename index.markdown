@@ -5,9 +5,8 @@ sections:
 - Content Consultant
 - Wat kan ik voor je doen?
 - Reken op mij voor
-- Skills
-- Contact
 - Portfolio
+- Contact
 layout: default.sections
 ---
 
