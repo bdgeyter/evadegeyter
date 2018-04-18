@@ -4,5 +4,5 @@ position: 0
 icon: icon-basic-tablet
 ---
 
-**Libelle, Poppinette, Partena**
-Concept website, coördinatie opstart, website- en blogbeheer.
+**Libelle, Poppinette, Partena, Elaba**
+Concept website en app, website- en blogbeheer.
