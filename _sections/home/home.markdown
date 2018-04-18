@@ -1,14 +1,17 @@
 ---
-title: Content Consultant
+title: Eva De Geyter
 date: 2016-09-20 07:53:00 Z
 position: 0
 background_image: "/uploads/bureaublad_3.png"
 is_dark_background: false
 is_fullscreen: true
 typewriter_words:
-- In the end, we all become
-- stories
+- tekst
+- beeld
+- content
+- concept
 layout: section.typed
 ---
 
-###### <span id="typed">in the end we all become stories</span>
+##### <span id="typed">tekst, beeld, content, concept</span>
+content consultant
