@@ -1,7 +1,8 @@
 ---
-title: Journalist/copywriter
+title: Redactie & copywriting
 position: 2
 icon: icon-basic-notebook-pen
 ---
 
-Psychologies, Decors, Interior Concepts, Flair, Feeling, Libelle, Lannoo, Colora, Sqills, …
+**Boeken, magazines, webcontent**
+Flair, Feeling, Libelle, Psychologies, Decors, Lannoo, Colora, Sqills, Partena Ziekenfonds…
