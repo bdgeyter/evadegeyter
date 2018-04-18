@@ -5,6 +5,7 @@ categories:
 - Concept
 - Content
 - Beeld
+- Tekst
 client: Palaplu
 skills: Apps
 cover_photo: "/uploads/elaba_S_eva-de-geyter.png"
