@@ -10,4 +10,5 @@ typewriter_words:
 layout: section.typed
 ---
 
-###### <span id="typed">In the end, we al become stories</span>
+###### <span id="typed">in the end</span>
+###### <span id="typed">we al become stories</span>
