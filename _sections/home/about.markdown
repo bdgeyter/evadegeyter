@@ -9,6 +9,8 @@ typewriter_words: tekst
 
 Schrijven zit in mijn DNA, grafisch ontwerp is een passie, en ideeën digitaliseren een tweede natuur. 
 
+
 Vertrouw op mij voor tekst, beeld, webcontent en creatieve concepten. 
+
 
 Voor print. Of web. Of allebei.
