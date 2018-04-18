@@ -1,6 +1,6 @@
 ---
 title: Content manager
-position: 5
+position: 0
 icon: icon-basic-tablet
 ---
 
