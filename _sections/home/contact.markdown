@@ -6,4 +6,4 @@ background_color: "#f2e4eb"
 style: min-height:100px;
 ---
 
-Freelance copywriter of content manager nodig? <a href="#" class="btn btn-primary btn-lg mailto" style="margin-left:30%">MAIL MIJ</a>
+Content consultancy nodig? <a href="#" class="btn btn-primary btn-lg mailto" style="margin-left:30%">MAIL MIJ</a>
