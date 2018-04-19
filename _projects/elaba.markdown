@@ -7,7 +7,10 @@ categories:
 - Beeld
 - Tekst
 client: Palaplu
-skills: Apps
+skills:
+- Redactie & copywriting
+- Content consultancy
+- Digital content management
 images:
 - "/uploads/elaba_2_eva-de-geyter.png"
 - "/uploads/elaba_3_eva-de-geyter.png"
