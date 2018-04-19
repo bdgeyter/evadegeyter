@@ -15,4 +15,4 @@ clients:
 - Uitgeverij Lannoo
 ---
 
-Voor het Libelle Basiswoonboek ...
+Inspirerende & haalbare woonideeën.
