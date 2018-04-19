@@ -11,13 +11,15 @@ skills:
 - Publishing & productie
 - Digital content management
 images:
-- "/assets/images/01.jpg"
-- "/assets/images/02.jpg"
-- "/assets/images/03.jpg"
-- "/assets/images/04.jpg"
-- "/assets/images/08.jpg"
-- "/assets/images/03.jpg"
-- "/assets/images/04.jpg"
+- "/uploads/poppinette_magazine_2_eva-de-geyter.png"
+- "/uploads/poppinette_magazine_3_eva-de-geyter.png"
+- "/uploads/poppinette_magazine_4_eva-de-geyter.png"
+- "/uploads/poppinette_magazine_5_eva-de-geyter.png"
+- "/uploads/poppinette_magazine_6_eva-de-geyter.png"
+- "/uploads/poppinette_magazine_7_eva-de-geyter.png"
+- "/uploads/poppinette_magazine_8_eva-de-geyter.png"
+- "/uploads/poppinette_magazine_9_eva-de-geyter.png"
+- "/uploads/poppinette_magazine_10_eva-de-geyter.png"
 cover_photo: "/uploads/poppinette_magazine_1_eva-de-geyter.png"
 ---
 
