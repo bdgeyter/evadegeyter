@@ -5,9 +5,11 @@ categories:
 - Tekst
 - Beeld
 - Concept
-client: Uitgeverij Lannoo
+client: Poppinette
 skills:
-- copywriting
+- Redactie & copywriting
+- Publishing & productie
+- Digital content management
 images:
 - "/assets/images/01.jpg"
 - "/assets/images/02.jpg"
@@ -16,7 +18,11 @@ images:
 - "/assets/images/08.jpg"
 - "/assets/images/03.jpg"
 - "/assets/images/04.jpg"
-cover_photo: "/assets/images/08.jpg"
+cover_photo: "/uploads/poppinette_magazine_1_eva-de-geyter.png"
 ---
 
-Si veniam quis enim cupidatat, cillum praetermissum probant quid possumus, de dolor aliqua quorum deserunt ea laboris esse vidisse quamquam. Ab tempor graviterque. Offendit dolore aliqua o nisi, nescius noster aliqua ita elit. Consequat praesentibus ne possumus, a quae iudicem offendit. De ipsum dolor e occaecat, aliqua a laboris, aliquip ut noster probant id ex anim praesentibus, noster quamquam nam vidisse ut pariatur fugiat labore vidisse nisi, sint graviterque pariatur eram ullamco, sint nam et duis tempor. E minim amet sed quamquam. Elit tempor an exquisitaque.
+**Blog en digitaal magazine**
+
+* Blog met eigen interieur- en crea-ideeën.
+* Digitaal Engelstalig magazine.
+* App-versie van het magazine.
