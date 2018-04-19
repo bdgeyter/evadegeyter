@@ -15,7 +15,6 @@ cover_photo: "/uploads/elaba_1_eva-de-geyter.png"
 ---
 
 **Extreem sympathiek pop-up sociaal netwerk voor de Gentse Feesten.**
-
 Gebruikers kunnen: 
 * foto's en commentaren delen vanuit de Feestenzone  
 * snel posten via suggestielijsten met typische Feestenactiviteiten  
