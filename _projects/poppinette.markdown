@@ -16,10 +16,11 @@ images:
 - "/uploads/poppinette_magazine_4_eva-de-geyter.png"
 - "/uploads/poppinette_magazine_5_eva-de-geyter.png"
 - "/uploads/poppinette_magazine_6_eva-de-geyter.png"
-- "/uploads/poppinette_magazine_7_eva-de-geyter.png"
 - "/uploads/poppinette_magazine_8_eva-de-geyter.png"
-- "/uploads/poppinette_magazine_9_eva-de-geyter.png"
+- "/uploads/poppinette_magazine_11_eva-de-geyter.png"
 - "/uploads/poppinette_magazine_10_eva-de-geyter.png"
+- "/uploads/poppinette_magazine_9_eva-de-geyter.png"
+- "/uploads/poppinette_magazine_7_eva-de-geyter.png"
 cover_photo: "/uploads/poppinette_magazine_1_eva-de-geyter.png"
 ---
 
