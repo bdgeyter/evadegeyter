@@ -6,7 +6,7 @@ categories:
 - Beeld
 client: Uitgeverij Lannoo
 skills: Redactie & copywriting
-cover_photo: "/uploads/Schermafdruk%202016-12-12%2022.10.10.png"
+cover_photo: "/uploads/libelle-basiswoonboek_eva-de-geyter.png"
 services:
 - Tekst
 - Beeld
