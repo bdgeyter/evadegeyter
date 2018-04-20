@@ -7,6 +7,7 @@ position: 0
 ###### Ik geef je boodschap vorm!
 ![logo-klein.png](/uploads/logo-klein.png)
 
+> ### Ik ben
 > **Schrijven** zit in mijn DNA, **grafisch ontwerp** is een passie, en **ideeën digitaliseren** werd een tweede natuur. 
 > 
 > 
