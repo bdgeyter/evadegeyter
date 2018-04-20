@@ -2,8 +2,7 @@
 title: Ik zie je wel zitten
 categories:
 - Concept
-- Tekst
-- Beeld
+- Content
 client: Partena Ziekenfonds
 skills:
 - Redactie & copywriting
@@ -18,8 +17,9 @@ clients:
 - Uitgeverij Lannoo
 ---
 
-**Partena Ziekenfonds: campagne tegen sedentair gedrag**
+**Partena Ziekenfonds: multimediale campagne tegen sedentair gedrag**
 * Online platform met zittest en beweegtips
 * Activatieprogramma via mail en sms
-* Copy, conceptadvies, campagne-ondersteuning
+* Posters, stickers, brochure
+* Copywriting, conceptadvies, campagne-ondersteuning
 [**Ikziejewelzitten.be**](http://ikziejewelzitten.be)
