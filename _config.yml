@@ -89,7 +89,7 @@ baseurl:
 url: https://evadegeyter.be
 fonts:
   import_url: https://fonts.googleapis.com/css?family=Amatic+SC|Quicksand
-  main_font_family: Amatic
+  main_font_family: Quicksand
   paragraph_font_family: Quicksand
 theme_colour: "#b1e0e5"
 social:
