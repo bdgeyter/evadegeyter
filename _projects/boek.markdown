@@ -23,4 +23,5 @@ clients:
 * Activatieprogramma via mail en sms
 * Posters, stickers, brochure
 * Copywriting, conceptadvies, campagne-ondersteuning
+
 [**Ikziejewelzitten.be**](http://ikziejewelzitten.be)
