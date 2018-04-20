@@ -24,3 +24,6 @@ cover_photo: "/uploads/poppinette_magazine_1_eva-de-geyter.png"
 
 * Blog met interieur- en crea-ideeën.
 * Engelstalig digitaal magazine, desktop en app.
+
+[Doorblader ze hier
+](https://issuu.com/poppinette)
