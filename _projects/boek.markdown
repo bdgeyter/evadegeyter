@@ -3,6 +3,7 @@ title: Ik zie je wel zitten
 categories:
 - Concept
 - Content
+- Tekst
 client: Partena Ziekenfonds
 skills:
 - Redactie & copywriting
