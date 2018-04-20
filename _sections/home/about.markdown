@@ -9,9 +9,6 @@ background_color: "#f4e6e6"
 ###### Ik geef je boodschap vorm!
 
 
-Schrijven zit in mijn DNA, grafisch ontwerp is een passie, en ideeën digitaliseren werd een tweede natuur. 
-
-
 Zoek je een copywriter, magazinemaker, boekenschrijver, websitevuller, brochure-ontwerper, concept designer, of content consultant? 
 
 
