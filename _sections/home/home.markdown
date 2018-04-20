@@ -1,5 +1,5 @@
 ---
-title: Welkom!
+title: Content consultant nodig?
 date: 2016-09-20 07:53:00 Z
 position: 0
 background_image: "/uploads/bureaublad-5.jpg"
@@ -8,7 +8,6 @@ is_fullscreen: true
 typewriter_words:
 - bla
 - " bla bla..."
-- content consultant nodig?
 layout: section.typed
 ---
 
