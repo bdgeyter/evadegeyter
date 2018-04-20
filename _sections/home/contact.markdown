@@ -3,6 +3,7 @@ title: Contact
 date: 2016-09-20 07:53:00 Z
 position: 0
 background_color: "#f4e6e6"
+background_image: "/uploads/bureaublad_S2.png"
 style: min-height:100px;
 ---
 
