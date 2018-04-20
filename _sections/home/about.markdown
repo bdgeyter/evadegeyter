@@ -4,8 +4,7 @@ date: 2016-09-20 07:53:00 Z
 position: 0
 ---
 
-###### Ik geef je boodschap vorm!
-![logo-klein.png](/uploads/logo-klein.png)
+![eva-de-geyter.png](/uploads/eva-de-geyter.png)###### Ik geef je boodschap vorm!
 
 
 > **Schrijven** zit in mijn DNA, **grafisch ontwerp** is een passie, en **ideeën digitaliseren** werd een tweede natuur. 
