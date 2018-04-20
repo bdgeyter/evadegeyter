@@ -8,7 +8,7 @@ is_fullscreen: false
 typewriter_words:
 - bla
 - " bla bla..."
-- content nodig?
+- content consultant nodig?
 layout: section.typed
 ---
 
