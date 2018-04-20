@@ -2,7 +2,7 @@
 title: eva de geyter
 date: 2016-09-20 07:53:00 Z
 position: 0
-background_image: "/uploads/bureaublad-7.jpg"
+background_image: "/uploads/bureaublad-9.jpg"
 is_dark_background: false
 is_fullscreen: false
 typewriter_words:
