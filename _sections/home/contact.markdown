@@ -6,5 +6,5 @@ background_color: "#f2e4eb"
 style: min-height:100px;
 ---
 
-![Elaba!_afplakkers_kletswaaf-ba897e.png](/uploads/Elaba!_afplakkers_kletswaaf-ba897e.png)
+![logo-klein.png](/uploads/logo-klein.png)
 ###### Content consultant nodig? <a href="#" class="btn btn-primary btn-lg mailto" style="margin-left:30%">MAIL MIJ</a>
