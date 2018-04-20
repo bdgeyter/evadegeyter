@@ -6,8 +6,9 @@ background_image: "/uploads/bureaublad_S.png"
 is_dark_background: false
 is_fullscreen: false
 typewriter_words:
-- bla?
+- bla
 - " bla bla..."
+- content nodig?
 layout: section.typed
 ---
 
