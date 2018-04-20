@@ -7,8 +7,8 @@ position: 0
 ###### Sprakeloos? Ik geef je boodschap vorm!
 ![logo-klein.png](/uploads/logo-klein.png)
 
-Schrijven zit in mijn DNA, grafisch ontwerp is een passie, en ideeën digitaliseren werd een tweede natuur. 
+> Schrijven zit in mijn DNA, grafisch ontwerp is een passie, en ideeën digitaliseren werd een tweede natuur. 
 
-Vertrouw op mij voor tekst, beeld, content, en creatieve concepten. 
+> Vertrouw op mij voor tekst, beeld, content, en creatieve concepten. 
 
-Voor print. Of web. Of allebei, natuurlijk.
+> Voor print. Of web. Of allebei, natuurlijk.
