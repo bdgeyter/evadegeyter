@@ -26,5 +26,5 @@ cover_photo: "/uploads/poppinette_magazine_1_eva-de-geyter.png"
 * Engelstalig digitaal magazine, desktop en app.
 * Eigen concept, beeld, tekst, vormgeving.
 
-[Doorblader ze hier
+[**Doorblader de nummers hier**
 ](https://issuu.com/poppinette)
