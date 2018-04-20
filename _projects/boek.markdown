@@ -1,12 +1,15 @@
 ---
-title: Libelle Basiswoonboek
+title: Ik zie je wel zitten
 categories:
 - Concept
 - Tekst
 - Beeld
-client: Uitgeverij Lannoo
-skills: Redactie & copywriting
-cover_photo: "/uploads/libelle-basiswoonboek_eva-de-geyter.png"
+client: Partena Ziekenfonds
+skills:
+- Redactie & copywriting
+- Content consultancy
+- Digital content management
+cover_photo: "/uploads/zittest_1_eva-de-geyter.png"
 services:
 - Tekst
 - Beeld
@@ -15,4 +18,8 @@ clients:
 - Uitgeverij Lannoo
 ---
 
-Inspirerende & haalbare woonideeën.
+**Partena Ziekenfonds: campagne tegen sedentair gedrag**
+* Online platform met zittest en beweegtips
+* Activatieprogramma via mail en sms
+* Copy, conceptadvies, campagne-ondersteuning
+[**Ikziejewelzitten.be**](http://ikziejewelzitten.be)
