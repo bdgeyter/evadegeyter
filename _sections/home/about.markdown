@@ -10,4 +10,7 @@ position: 0
 > **Schrijven** zit in mijn DNA, **grafisch ontwerp** is een passie, en **ideeën digitaliseren** werd een tweede natuur. 
 > 
 > 
-> Zoek je een copywriter, magazinemaker, boekenschrijver, websitevuller, posterontwerper, concept designer, of content consultant? Maakt niet uit hoe je het noemt, maar vertrouw op mij voor **tekst**, **beeld**, **content**, en **creatieve concepten**. Voor **print**. Of **web**. Of **allebei**, natuurlijk.
+> Zoek je een copywriter, magazinemaker, boekenschrijver, websitevuller, brochure-ontwerper, concept designer, of content consultant? 
+> 
+> 
+> Maakt niet uit hoe je het noemt, maar vertrouw op mij voor **tekst**, **beeld**, **content**, en **creatieve concepten**. Voor **print**. Of **web**. Of **allebei**, natuurlijk.
