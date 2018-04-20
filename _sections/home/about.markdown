@@ -8,7 +8,7 @@ position: 0
 ![logo-klein.png](/uploads/logo-klein.png)
 
 > Schrijven zit in mijn DNA, grafisch ontwerp is een passie, en ideeën digitaliseren werd een tweede natuur. 
-
+> 
 > Vertrouw op mij voor tekst, beeld, content, en creatieve concepten. 
-
+> 
 > Voor print. Of web. Of allebei, natuurlijk.
