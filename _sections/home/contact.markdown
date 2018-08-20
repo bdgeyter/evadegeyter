@@ -6,4 +6,4 @@ background_color: "#9cdce2"
 style: min-height:100px;
 ---
 
-#####Content consultant nodig? <a href="#" class="btn btn-primary btn-lg mailto" style="margin-left:30%">MAIL MIJ</a>
+####Content consultant nodig? <a href="#" class="btn btn-primary btn-lg mailto" style="margin-left:30%">MAIL MIJ</a>
