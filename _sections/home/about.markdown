@@ -2,7 +2,7 @@
 title: Wie
 date: 2016-09-20 07:53:00 Z
 position: 0
-background_color: "#ffffff"
+background_color: "#e5a77f"
 ---
 
 ![eva-de-geyter-3.png](/uploads/eva-de-geyter-3.png)
