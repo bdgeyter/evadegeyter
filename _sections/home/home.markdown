@@ -6,7 +6,7 @@ background_image: "/uploads/bureaublad-8.jpg"
 is_dark_background: false
 is_fullscreen: false
 typewriter_words:
-- bla
+- in the end, we all become stories
 - " bla bla..."
 - content consultant nodig?
 layout: section.typed
