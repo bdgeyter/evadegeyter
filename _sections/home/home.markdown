@@ -13,4 +13,4 @@ typewriter_words:
 layout: section.typed
 ---
 
-<span id="typed">tekst</span>
+##### <span id="typed">tekst</span>
