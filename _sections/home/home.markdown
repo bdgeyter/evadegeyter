@@ -12,4 +12,4 @@ typewriter_words:
 layout: section.typed
 ---
 
-###### <span id="typed">in the end</span>
+#### <span id="typed">in the end</span>
