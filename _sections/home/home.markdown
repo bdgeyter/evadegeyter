@@ -6,10 +6,11 @@ background_image: "/uploads/Eva-De-Geyter_logo_blauw.png"
 is_dark_background: false
 is_fullscreen: false
 typewriter_words:
-- in the end
-- 'we all become '
-- stories
+- tekst
+- 'beeld '
+- content
+- concept
 layout: section.typed
 ---
 
-<span id="typed">in the end</span>
+<span id="typed">tekst</span>
