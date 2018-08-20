@@ -14,6 +14,7 @@ skills:
 - Publishing & productie
 - Redactie & copywriting
 images:
+- "/uploads/producties_3_eva-de-geyter.png"
 - "/uploads/producties_4_eva-de-geyter.png"
 - "/uploads/producties_1_eva-de-geyter.png"
 - "/uploads/producties_2_eva-de-geyter.png"
