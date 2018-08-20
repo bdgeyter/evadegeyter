@@ -18,8 +18,8 @@ images:
 cover_photo: "/uploads/producties_3_eva-de-geyter.png"
 ---
 
-**Zaakvoerder productiehuis**
-* Ready-made lifestyle producties voor magazines
+**Ready-made lifestyle producties voor magazines**
+* Zaakvoerder productiehuis
 * Content planning
 * Productie-coördinatie
 * Tekst
