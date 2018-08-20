@@ -8,7 +8,8 @@ categories:
 - Beeld
 client:
 - Goed Gevoel
-- 
+- Ariadne at Home
+- Zuhause Wohnen
 skills:
 - Publishing & productie
 - Redactie & copywriting
