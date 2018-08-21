@@ -8,6 +8,7 @@ categories:
 skills:
 - Redactie & copywriting
 - Content consultancy
+cover_photo: "/uploads/boeken_eva-de-geyter.png"
 ---
 
 **Concept en redactie non-fictie boeken**
