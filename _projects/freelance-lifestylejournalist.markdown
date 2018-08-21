@@ -1,5 +1,5 @@
 ---
-title: Redactie en copywriting
+title: Redactie en copywriting magazines
 date: 2018-08-21 09:10:00 Z
 categories:
 - Tekst
