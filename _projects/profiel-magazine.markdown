@@ -5,6 +5,10 @@ categories:
 - Content
 - Concept
 - Tekst
+client: Partena Ziekenfonds
+skills:
+- Content consultancy
+- Redactie & copywriting
 cover_photo: "/uploads/profiel-partena-ziekenfonds_1_eva-de-geyter.png"
 ---
 
