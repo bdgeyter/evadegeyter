@@ -19,7 +19,8 @@ images:
 cover_photo: "/uploads/blog_1_eva-de-geyter.png"
 ---
 
-**Blog met interieur- en crea-ideeën**
+**Eigen blog met interieur- en crea-ideeën**
+
 * Content planning
 * Productie-coördinatie
 * Tekst
