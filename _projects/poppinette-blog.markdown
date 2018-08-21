@@ -15,7 +15,6 @@ images:
 - "/uploads/blog_3_eva-de-geyter.png"
 - "/uploads/blog_4_eva-de-geyter.png"
 - "/uploads/blog_5_eva-de-geyter.png"
-cover_photo: "/uploads/blog_1_eva-de-geyter.png"
 ---
 
 **Blog met interieur- en crea-ideeën**
