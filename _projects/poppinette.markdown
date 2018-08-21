@@ -20,7 +20,7 @@ images:
 cover_photo: "/uploads/poppinette_magazine_1b_eva-de-geyter.png"
 ---
 
-**Digitaal magazine: desktop en app**
+**Eigen digitaal magazine: desktop en app**
 
 * Engelstalig digitaal crea- en interieurmagazine.
 * Eigen concept, beeld, tekst, vormgeving.
