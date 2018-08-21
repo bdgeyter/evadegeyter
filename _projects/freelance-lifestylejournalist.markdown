@@ -1,5 +1,5 @@
 ---
-title: Freelance lifestylejournalist
+title: Freelance redactie en copywriting
 date: 2018-08-21 09:10:00 Z
 categories:
 - Tekst
