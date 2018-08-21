@@ -5,6 +5,7 @@ categories:
 - Content
 - Tekst
 - Beeld
+cover_photo: "/uploads/libelle-website_eva-de-geyter.png"
 ---
 
 **Eerste website van het magazine Libelle**
