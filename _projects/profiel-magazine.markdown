@@ -19,7 +19,7 @@ cover_photo: "/uploads/profiel-partena-ziekenfonds_1_eva-de-geyter.png"
 
 **Restyling ledenmagazine Partena Ziekenfonds**
 
-* Consultancy vormgeving, rubrieken, tekstconcept.
+* Consultancy nieuwe vormgeving, rubrieken, tekstconcept.
 * Contentplanning
 * Redactie en eindredactie.
 
