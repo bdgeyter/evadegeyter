@@ -1,5 +1,5 @@
 ---
-title: Copywriting en ghostwriting
+title: Copywriting en ghostwriting boeken
 date: 2018-08-21 09:45:00 Z
 categories:
 - Concept
