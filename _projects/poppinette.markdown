@@ -1,5 +1,5 @@
 ---
-title: Poppinette blog en digimag
+title: Poppinette digimag
 categories:
 - Content
 - Tekst
@@ -20,10 +20,9 @@ images:
 cover_photo: "/uploads/poppinette_magazine_1_eva-de-geyter.png"
 ---
 
-**Blog, digitaal magazine en app**
+**Digitaal magazine: desktop en app**
 
-* Blog met interieur- en crea-ideeën.
-* Engelstalig digitaal magazine, desktop en app.
+* Engelstalig digitaal crea- en interieurmagazine.
 * Eigen concept, beeld, tekst, vormgeving.
 
 [**Doorblader Poppinette Magazine in Issuu**
