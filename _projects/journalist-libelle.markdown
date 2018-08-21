@@ -5,6 +5,7 @@ categories:
 - Tekst
 - Beeld
 skills: Redactie & copywriting
+cover_photo: "/uploads/libelle-redacteur_eva-de-geyter.png"
 ---
 
 **Journalist Libelle, Sanoma Magazines**
