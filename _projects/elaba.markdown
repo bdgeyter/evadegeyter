@@ -18,7 +18,7 @@ images:
 cover_photo: "/uploads/elaba_1_eva-de-geyter.png"
 ---
 
-**Extreem sympathieke pop-up app voor de Gentse Feesten.**
+**Extreem sympathieke pop-up app voor de Gentse Feesten: eigen concept ism [Palaplu](http://www.palaplu.be).**
 
 * foto's en commentaren delen vanuit de Feestenzone  
 * snel posten via suggestielijsten met typische Feestenactiviteiten  
