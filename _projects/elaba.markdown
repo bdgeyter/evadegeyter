@@ -1,5 +1,5 @@
 ---
-title: Elaba
+title: Elaba Gentse Feesten app
 date: 2018-03-19 09:38:00 Z
 categories:
 - Concept
