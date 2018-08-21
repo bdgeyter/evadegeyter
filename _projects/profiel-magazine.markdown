@@ -9,6 +9,11 @@ client: Partena Ziekenfonds
 skills:
 - Content consultancy
 - Redactie & copywriting
+images:
+- "/uploads/profiel-partena-ziekenfonds_2_eva-de-geyter.png"
+- "/uploads/profiel-partena-ziekenfonds_3_eva-de-geyter.png"
+- "/uploads/profiel-partena-ziekenfonds_5_eva-de-geyter.png"
+- "/uploads/profiel-partena-ziekenfonds_6_eva-de-geyter.png"
 cover_photo: "/uploads/profiel-partena-ziekenfonds_1_eva-de-geyter.png"
 ---
 
