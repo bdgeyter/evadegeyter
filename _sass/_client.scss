@@ -5,15 +5,15 @@
         min-height: 160px;
         padding: 15px;
         @media (min-width: 768px) {
-            border-right: 2px solid $theme-colour;
+            border-right: 2px solid $theme-colour-one;
         }
-        border-bottom: 2px solid $theme-colour;
+        border-bottom: 2px solid $theme-colour-one;
         -webkit-transition: all .25s ease-in-out;
         transition: all .25s ease-in-out;
     
         
         &:hover {
-            background-color: $theme-colour;
+            background-color: $theme-colour-one;
         }
         
         &-3 {

@@ -91,7 +91,6 @@ fonts:
   import_url: https://fonts.googleapis.com/css?family=Amatic+SC|Quicksand
   main_font_family: Quicksand
   paragraph_font_family: Quicksand
-theme_colour: "#b1e0e5"
 social:
 - network: pinterest
   username: poppinette
@@ -105,5 +104,9 @@ exclude:
 sass:
   style: compressed
 colours:
-- theme_colour: 
-  secondary_theme_colour: 
+  theme_one: "#b1e0e5"
+  theme_two: "#f7d3c8"
+  theme_three: "#1422ae"
+
+github:
+  url: http://localhost:4000

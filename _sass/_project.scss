@@ -42,7 +42,7 @@
   }
 
   i {
-    color: $theme-colour;
+    color: $theme-colour-one;
     font-size: 11px;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -68,7 +68,7 @@
 }
 .is-checked {
   color: #222!important;
-  background: $theme-colour!important;
+  background: $theme-colour-one!important;
 }
 .item-hover {
   position: absolute;
