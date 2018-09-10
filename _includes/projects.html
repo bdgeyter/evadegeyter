@@ -1,6 +1,6 @@
 {% assign categories =  site.projects | map: 'categories' | join: ',' | join: ',' | split: ',' | sort %}
 
-<ul class="filters filters-group nop">
+<!--ul class="filters filters-group nop">
   <li class="filter is-checked" data-filter="*">All</li>
   {% for category in categories %}
   {% unless category == previous %}
@@ -10,7 +10,7 @@
   {% assign previous = category %}
 
   {% endfor %}
-</ul>
+</ul-->
 
 <div id="isotopeGrid" class="mGrid">
   <div class="grid-sizer"></div>
