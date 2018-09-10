@@ -6,7 +6,7 @@ background_color: "#f7d3c8"
 ---
 
 ![eva-de-geyter-3.png](/uploads/eva-de-geyter-3.png)
-###### Ik geef je boodschap vorm!
+### Ik geef je boodschap vorm!
 
 
 Zoek je een copywriter, magazinemaker, boekenschrijver, websitevuller, brochure-ontwerper, concept designer, of content consultant? 
