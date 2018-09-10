@@ -173,7 +173,7 @@ ul.nop {
 	width: 30px;
 }
 .sidebar-menu {
-	background: #555;
+	background: $theme-colour-three;
 	position: fixed;
 	width: 300px;
 	height: 100%;
@@ -196,7 +196,11 @@ ul.nop {
 	font-weight: 700;
 	letter-spacing: 3px;
 	padding: 10px 18px;
-	border: 1px solid #555;
+	color: white;
+}
+
+.smenu li a:hover {
+	color: #555;
 }
 .smenu li {
 	text-align: center;
