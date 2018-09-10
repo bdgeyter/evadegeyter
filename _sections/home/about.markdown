@@ -13,6 +13,3 @@ Zoek je een freelance copywriter, magazinemaker, brochure-ontwerper, concept des
 
 
 Ik zorg voor tekst, beeld, content, en creatieve concepten. Voor print, of digitaal. Of allebei.
-
-
-Ik creëer de content waarin je klant zich thuis voelt. Even efficiënt als vanzelfsprekend. Altijd op maat van jouw bedrijf, en jouw commerciële noden. 
