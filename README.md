@@ -1,4 +1,4 @@
-# EVADEGEYTER.BE #
+# [EVADEGEYTER.BE](https://evadegeyter.be) #
 
 ## Local Dev
 First add this to `_config.yml`:
@@ -6,8 +6,12 @@ First add this to `_config.yml`:
 github:
     url: http://localhost:4000
 ```
-then start the docker container:
+to ensure that static files are sourced locally.
 
-`docker run -t -i --rm -v "$PWD":/usr/src/app:delegated -p "4000:4000" starefossen/github-pages`
+Then start the docker:
 
-## deploy
+`docker-compose up`
+
+## Deploy
+
+Push to `origin/master`
