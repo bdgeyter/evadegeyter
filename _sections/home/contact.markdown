@@ -2,9 +2,7 @@
 title: Contact
 date: 2016-09-20 07:53:00 Z
 position: 0
-background_color: "#1422ae"
-is_dark_background: true
-style: 'min-height:50px; padding-top: 50px; padding-bottom: 50px;'
+style: "min-height:50px; padding-top: 50px; padding-bottom: 50px;"
 ---
 
 <div class="container">
