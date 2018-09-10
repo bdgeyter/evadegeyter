@@ -3,7 +3,7 @@ title: Partena-ziekenfonds.be
 date: 2018-03-19 10:22:00 Z
 categories:
 - Content
-position: 4
+position: 3
 client: Partena Ziekenfonds
 skills:
 - Redactie & copywriting
