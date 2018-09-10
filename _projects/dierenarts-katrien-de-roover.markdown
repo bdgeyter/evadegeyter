@@ -6,7 +6,7 @@ categories:
 - Content
 - Tekst
 - Beeld
-position: 9
+position: 8
 skills:
 - Content consultancy
 - Digital content management

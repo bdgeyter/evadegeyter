@@ -4,7 +4,7 @@ date: 2018-08-21 09:34:00 Z
 categories:
 - Tekst
 - Beeld
-position: 8
+position: 9
 skills: Redactie & copywriting
 cover_photo: "/uploads/libelle-redacteur_eva-de-geyter.png"
 ---
