@@ -7,4 +7,4 @@ is_dark_background: true
 style: min-height:50px;
 ---
 
-###### Content consultant nodig? <a href="#" class="btn btn-primary btn-lg mailto" style="margin-left:30%">MAIL MIJ</a>
+### Content consultant nodig? <a href="#" class="btn btn-primary btn-lg mailto" style="margin-left:30%">MAIL MIJ</a>
