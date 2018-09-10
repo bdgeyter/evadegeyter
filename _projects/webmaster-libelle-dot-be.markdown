@@ -5,6 +5,7 @@ categories:
 - Content
 - Tekst
 - Beeld
+position: 11
 cover_photo: "/uploads/libelle-website_eva-de-geyter.png"
 ---
 

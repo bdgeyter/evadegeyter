@@ -6,6 +6,7 @@ categories:
 - Concept
 - Tekst
 - Beeld
+position: 5
 client:
 - Goed Gevoel
 - Ariadne at Home
