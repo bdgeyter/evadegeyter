@@ -5,8 +5,8 @@ position: 0
 style: 'text-align: center;'
 typewriter_words:
 - "? "
-- "! "
 - "?! "
+- "! "
 - "... "
 layout: section.typed
 ---
