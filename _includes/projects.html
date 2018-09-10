@@ -1,5 +1,4 @@
 {% assign categories =  site.projects | map: 'categories' | join: ',' | join: ',' | split: ',' | sort %}
-
 {% assign projects = site.projects | sort: 'position' %}
 <!--ul class="filters filters-group nop">
   <li class="filter is-checked" data-filter="*">All</li>
@@ -52,18 +51,22 @@
               <div class="row">
                 <div class="col-md-4">
                   <h4>Klant</h4>
-                  {{project.clients | join: ' '}}
-                  {% unless project.clients %}
-                  nvt
-                  {% endunless%}
+                  {{project.client}}
+                  {% unless project.client %}
+                  Diverse
+                  {% endunless %}
                 </div>
                 <div class="col-md-4">
-                <h4>Vaardigheden</h4>
-                  {{project.skills | join: ' '}}
+                <h4>Skills</h4>
+                {% for skill in project.skills %}
+                  <div>{{skill}}</div>
+                {% endfor %}
                 </div>
                 <div class="col-md-4">
                   <h4>Diensten</h4>
-                  {{project.categories | join: ' '}}
+                  {% for category in project.categories %}
+                    <div>{{category}}</div>
+                  {% endfor %}
                 </div>
               </div>
             </div>
