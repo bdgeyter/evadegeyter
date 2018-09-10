@@ -104,3 +104,6 @@ exclude:
 - gulpfile.js
 sass:
   style: compressed
+colours:
+- theme_colour: 
+  secondary_theme_colour: 
