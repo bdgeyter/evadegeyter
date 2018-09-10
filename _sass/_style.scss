@@ -49,55 +49,54 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: $main-font;
 }
 h1 {
-	font-size: 180px;
-  @media (max-width: 480px) {
-    font-size: 90px;
+	font-size: 48px;
+	@media (max-width: 480px) {
+		font-size: 40px;
+	  }
   }
-}
 
 h2 {
-	font-size: 140px;
+	font-size: 42px;
   @media (max-width: 480px) {
-    font-size: 70px;
+    font-size: 35px;
   }
 }
 
 h3 {
-	font-size: 100px;
-  @media (max-width: 480px) {
-    font-size: 60px;
+	font-size: 36px;
+	@media (max-width: 480px) {
+		font-size: 30px;
+	  }
   }
 
-}
 h4 {
-	font-size: 80px;
-  @media (max-width: 480px) {
-    font-size: 50px;
-  }
-
+	font-size: 30px;
+	@media (max-width: 480px) {
+		font-size: 25px;
+	  }
 }
 h5 {
-	font-size: 60px;
+	font-size: 24px;
 	letter-spacing: 2px;
-  @media (max-width: 480px) {
-    font-size: 40px;
-  }
+	@media (max-width: 480px) {
+		font-size: 20px;
+	  }
 }
 h6 {
-	font-size: 40px;
+	font-size: 18px;
   letter-spacing: 2px;
   @media (max-width: 480px) {
-    font-size: 30px;
+    font-size: 15px;
   }
 }
 
 p {
  	line-height: 1.5em;
  	letter-spacing: normal;
- 	font-size: 20px;
-  @media (max-width: 480px) {
-    font-size: 16px;
-  }
+	 font-size: 18px;
+	 @media (max-width: 480px) {
+		font-size: 15px;
+	  }
 	color: #555;
 }
 ul.nop {
