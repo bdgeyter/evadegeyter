@@ -6,11 +6,11 @@ background_image: "/uploads/Eva-De-Geyter_logo_blauw2.png"
 is_dark_background: false
 is_fullscreen: false
 typewriter_words:
-- ".........  ....  .....  .................  .........  .... ...............  ..............
-  \ ....  ....  ."
-- "....  ........  .........  ....  ...  ............  ............  ....  ...........
-  \ ."
+- "?"
+- "!"
+- "?!"
+- "..................."
 layout: section.typed
 ---
 
-<span id="typed">...</span>
+<span id="typed">?</span>
