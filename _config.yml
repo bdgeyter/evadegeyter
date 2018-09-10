@@ -107,6 +107,5 @@ colours:
   theme_one: "#b1e0e5"
   theme_two: "#f7d3c8"
   theme_three: "#1422ae"
-
 github:
   url: http://localhost:4000
