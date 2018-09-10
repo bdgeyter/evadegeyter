@@ -2,7 +2,7 @@
 title: Contact
 date: 2016-09-20 07:53:00 Z
 position: 0
-style: "min-height:50px; padding-top: 50px; padding-bottom: 50px;"
+style: 'min-height:50px; padding-top: 50px; padding-bottom: 50px;'
 ---
 
 <div class="container">
