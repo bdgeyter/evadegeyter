@@ -9,7 +9,10 @@ background_color: "#f7d3c8"
 ### Ik geef je boodschap vorm!
 
 
-Zoek je een copywriter, magazinemaker, boekenschrijver, websitevuller, brochure-ontwerper, concept designer, of content consultant? 
+Zoek je een freelance copywriter, magazinemaker, brochure-ontwerper, concept designer, of content marketeer?
 
+Maakt niet uit hoe je het noemt: vertrouw gewoon op mij voor welgemikte communicatie. 
 
-Maakt niet uit hoe je het noemt, maar vertrouw op mij voor tekst, beeld, content, en creatieve concepten. Voor print. Of web. Of allebei, natuurlijk.
+Ik zorg voor tekst, beeld, content, en creatieve concepten. Voor print, of digitaal. Of allebei.
+
+Ik creëer de content waarin je klant zich thuis voelt. Even efficiënt als vanzelfsprekend. Altijd op maat van jouw bedrijf, en jouw commerciële noden. 
