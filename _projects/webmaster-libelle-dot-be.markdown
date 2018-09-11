@@ -6,6 +6,7 @@ categories:
 - Tekst
 - Beeld
 position: 11
+client: Libelle
 cover_photo: "/uploads/libelle-website_eva-de-geyter.png"
 ---
 
