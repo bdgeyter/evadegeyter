@@ -16,7 +16,7 @@ services:
 - Beeld
 - Concept
 clients:
-- Uitgeverij Lannoo
+- Partena Ziekenfonds
 ---
 
 **Partena Ziekenfonds: multimediale campagne tegen sedentair gedrag**
