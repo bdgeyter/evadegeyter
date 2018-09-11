@@ -11,6 +11,7 @@ client:
 - Goed Gevoel
 - Ariadne at Home
 - Zuhause Wohnen
+- KVLV
 skills:
 - Publishing & productie
 - Redactie & copywriting
