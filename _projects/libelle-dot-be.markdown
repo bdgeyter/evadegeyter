@@ -3,6 +3,7 @@ title: Partena-ziekenfonds.be
 date: 2018-03-19 10:22:00 Z
 categories:
 - Content
+- Tekst
 position: 2
 client: Partena Ziekenfonds
 skills:
