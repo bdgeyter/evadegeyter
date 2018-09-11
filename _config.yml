@@ -94,8 +94,6 @@ fonts:
 social:
 - network: pinterest
   username: poppinette
-- network: instagram
-  username: evadegeyter
 markdown: kramdown
 exclude:
 - package.json
