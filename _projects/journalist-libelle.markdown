@@ -5,6 +5,7 @@ categories:
 - Tekst
 - Beeld
 position: 9
+client: Libelle
 skills: Redactie & copywriting
 cover_photo: "/uploads/libelle-redacteur_eva-de-geyter.png"
 ---
