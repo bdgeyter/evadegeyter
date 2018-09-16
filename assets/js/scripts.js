@@ -28,8 +28,8 @@ $(document).ready(function() {
   //------- SAFER MAILTO BUTTON ---//
   $('.btn.mailto').click(function(){
     this.preventDefault;
-    var username = 'hallo',
-        domain = 'evadegeyter.be';
+    var username = 'evadegeyter',
+        domain = 'telenet.be';
     location.href = 'mailto:' + username + '@' + domain;
   });
 
