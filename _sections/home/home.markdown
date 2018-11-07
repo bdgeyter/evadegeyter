@@ -13,9 +13,9 @@ layout: section.typed
 
 
 
-#### <span id="typed">In the end, we all become stories.</span>
+##### <span id="typed">In the end, we all become stories.</span>
 
 
-# EVA DE GEYTER
+## EVA DE GEYTER
 
-### content consultant
+#### content consultant
