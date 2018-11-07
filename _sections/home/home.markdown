@@ -17,3 +17,5 @@ layout: section.typed
 
 
 #### <span id="typed">in the end, we all become stories</span>
+
+#### <span id="typed">in the end, we all become stories</span>
