@@ -11,6 +11,6 @@ typewriter_words:
 layout: section.typed
 ---
 
-![Logo](/uploads/Eva-De-Geyter_logo_blauw.png)
+![Logo](/uploads/Eva%20De%20Geyter_content%20consulant.png)
 # EVA DE GEYTER
 ### content consultant<span id="typed">...</span>
