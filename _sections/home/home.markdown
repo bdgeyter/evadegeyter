@@ -12,4 +12,7 @@ layout: section.typed
 ---
 
 # EVA DE GEYTER
-### content consultant<span id="typed">...</span>
+### CONTENT CONSULTANT
+
+
+### in the end, we all become stories<span id="typed">...</span>
