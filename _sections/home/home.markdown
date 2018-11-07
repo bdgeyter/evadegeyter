@@ -16,4 +16,4 @@ layout: section.typed
 ### CONTENT CONSULTANT
 
 
-### in the end, we all become stories<span id="typed">...</span>
+#### in the end, we all become stories<span id="typed">...</span>
