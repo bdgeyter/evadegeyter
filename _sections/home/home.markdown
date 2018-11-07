@@ -12,7 +12,7 @@ layout: section.typed
 ---
 
 
-
+![bureaublad_wit.png](/uploads/bureaublad_wit.png)
 ##### <span id="typed">In the end, we all become stories.</span>
 
 
