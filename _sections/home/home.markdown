@@ -5,15 +5,16 @@ position: 0
 style: 'text-align: center;'
 typewriter_words:
 - in the end, we all become stories
-- stories
-- "! "
-- "... "
+- stories.
+- stories!
+- stories...
 layout: section.typed
 ---
 
 
 
 #### <span id="typed">in the end, we all become stories</span>
+
 
 # EVA DE GEYTER
 
