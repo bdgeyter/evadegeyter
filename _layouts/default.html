@@ -11,7 +11,7 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="Eva De Geyter">
-    <meta name="description" content="{{ site.description }}">
+    <meta name="description" content="{{ site.description | strip_html | strip_newlines }}">
 
     {% include head.html %}
     {% include meta.html %}
