@@ -13,6 +13,7 @@ cover_photo: "/uploads/pinpoint_eva-de-geyter.png"
 ---
 
 **Content consultancy voor digital agency Pinpoint Solutions**
+
 * Contentplanning
 * Copywriting blogs, webteksten & social posts
 * Grafisch ontwerp social posts en e-books
