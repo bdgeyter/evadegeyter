@@ -13,7 +13,7 @@ style: 'min-height:50px; padding-top: 50px; padding-bottom: 50px;'
             <h4 style="margin-top: 0px; margin-bottom: 0px;">Copy, content of advies nodig?</h4>
         </div>
         <div class="col-sm-4" style="padding-top: 20px; padding-bottom: 20px;">
-            <a href="#" class="btn btn-primary btn-lg mailto">Laat maar weten</a>
+            <a href="#" class="btn btn-primary btn-lg mailto">Vraag maar raak</a>
         </div>
     </div>
 </div>
