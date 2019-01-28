@@ -6,8 +6,8 @@ sections:
 - Wie
 - Wat
 - Portfolio
-- Referenties
 - Contact
+- Referenties
 layout: default.sections
 ---
 
