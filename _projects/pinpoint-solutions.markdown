@@ -1,5 +1,5 @@
 ---
-title: Consultancy voor Pinpoint Solutions
+title: Content consultant Pinpoint Solutions
 date: 2019-01-28 12:23:00 Z
 categories:
 - Content
@@ -12,7 +12,7 @@ skills:
 cover_photo: "/uploads/pinpoint_eva-de-geyter.png"
 ---
 
-**Content consultancy voor [digital agency Pinpoint Solutions](https://pinpoint-solutions.be)**
+**Consultancy voor [digital agency Pinpoint Solutions](https://pinpoint-solutions.be)**
 
 * Contentplanning
 * Copywriting blogs, webteksten & social posts
