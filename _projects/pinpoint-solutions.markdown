@@ -1,5 +1,5 @@
 ---
-title: Pinpoint Solutions
+title: Consultancy voor Pinpoint Solutions
 date: 2019-01-28 12:23:00 Z
 categories:
 - Content
