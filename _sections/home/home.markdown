@@ -12,9 +12,6 @@ layout: section.typed
 ---
 
 ![bureaublad-793dec.png](/uploads/bureaublad-793dec.png)
-
-
-
 ## EVA DE GEYTER
 
 #### <span id="typed">content consultant</span>
