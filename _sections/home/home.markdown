@@ -6,10 +6,10 @@ background_image: "/uploads/bureaublad-3.png"
 is_dark_background: true
 style: 'text-align: center;'
 typewriter_words:
-- content consultant
-- "?"
-- "!"
-- "..."
+- in the end, we all become stories
+- stories?
+- stories...
+- stories!
 layout: section.typed
 ---
 
@@ -20,6 +20,6 @@ layout: section.typed
 
 
 
-## EVA DE GEYTER
+## EVA DE GEYTER - content consultant
 
-#### <span id="typed">content consultant</span>
+#### <span id="typed">in the end,</span>
