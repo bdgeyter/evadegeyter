@@ -21,8 +21,9 @@ images:
 cover_photo: "/uploads/partena_hospitalia2019_7_eva-de-geyter.png"
 ---
 
-**Hospitalisatieverzekering via [Partena Ziekenfonds](https://www.partena-ziekenfonds.be/nl/campagnes/hospitalia-zowie)
-**
+**Campagne voor de hospitalisatieverzekering via [Partena Ziekenfonds](https://www.partena-ziekenfonds.be/nl/campagnes/hospitalia-zowie)**
+
+
 * Brainstorm campagneconcept
 * Productiebegeleiding fotoshoot
 * Interviews getuigenissen
