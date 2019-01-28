@@ -1,7 +1,9 @@
 ---
 title: Pinpoint Solutions
 date: 2019-01-28 12:23:00 Z
-published: false
+categories:
+- Content
+- Beeld
 client: Pinpoint Solutions
 skills:
 - Content consultancy
@@ -10,8 +12,8 @@ skills:
 cover_photo: "/uploads/pinpoint_eva-de-geyter.png"
 ---
 
-Restyling ledenmagazine Partena Ziekenfonds
-
-Consultancy nieuwe vormgeving, rubrieken, tekstconcept.
-Contentplanning
-Redactie en eindredactie.
+**Content consultancy voor digital agency Pinpoint Solutions**
+* Contentplanning
+* Copywriting blogs, webteksten & social posts
+* Grafisch ontwerp social posts en e-books
+* SEO-optimalisatie webpages
