@@ -7,4 +7,4 @@ lists:
   clients: true
 ---
 
-### Mijn klanten
+### Contente klanten
