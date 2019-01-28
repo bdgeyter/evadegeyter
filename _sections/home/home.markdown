@@ -6,7 +6,7 @@ background_image: "/uploads/bureaublad-4.png"
 is_dark_background: false
 style: 'text-align: center;'
 typewriter_words:
-- in the end, we all become stories
+- content consultant
 layout: section.typed
 ---
 
@@ -20,4 +20,4 @@ layout: section.typed
 ### EVA DE GEYTER
 ### content consultant
 
-##### <span id="typed">in the end,</span>
+##### <span id="typed">content consultant</span>
