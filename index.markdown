@@ -7,6 +7,7 @@ sections:
 - Portfolio
 - Wat
 - Contact
+- Klanten
 layout: default.sections
 ---
 
