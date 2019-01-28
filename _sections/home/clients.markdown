@@ -7,4 +7,4 @@ lists:
   clients: true
 ---
 
-### Met wie heb ik samengewerkt?
+### Mijn klanten
