@@ -3,6 +3,7 @@ title: eva de geyter
 date: 2016-09-20 07:53:00 Z
 position: 0
 background_image: "/uploads/bureaublad-3.png"
+is_dark_background: true
 style: 'text-align: center;'
 typewriter_words:
 - content consultant
@@ -11,6 +12,7 @@ typewriter_words:
 - "..."
 layout: section.typed
 ---
+
 
 
 
