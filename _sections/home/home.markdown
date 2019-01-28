@@ -11,9 +11,8 @@ typewriter_words:
 layout: section.typed
 ---
 
+![bureaublad-793dec.png](/uploads/bureaublad-793dec.png)
 
-![bureaublad.png](/uploads/bureaublad.png)
-##### In the end, we all become stories.
 
 
 ## EVA DE GEYTER
