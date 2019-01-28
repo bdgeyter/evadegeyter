@@ -102,6 +102,6 @@ exclude:
 sass:
   style: compressed
 colours:
-  theme_one: "#b1e0e5"
+  theme_one: "#e5f5f5"
   theme_two: "#f7d3c8"
   theme_three: "#1422ae"
