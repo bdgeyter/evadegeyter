@@ -7,4 +7,4 @@ lists:
   clients: true
 ---
 
-Samengewerkt met...
+### Met wie heb ik samengewerkt?
