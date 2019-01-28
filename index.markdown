@@ -6,7 +6,7 @@ sections:
 - Wie
 - Portfolio
 - Wat
-- Klanten
+- Referenties
 - Contact
 layout: default.sections
 ---
