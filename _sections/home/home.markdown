@@ -17,7 +17,7 @@ layout: section.typed
 
 
 
-## EVA DE GEYTER
-## content consultant
+### EVA DE GEYTER
+### content consultant
 
-#### <span id="typed">in the end,</span>
+##### <span id="typed">in the end,</span>
