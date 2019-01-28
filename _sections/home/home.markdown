@@ -11,7 +11,7 @@ typewriter_words:
 layout: section.typed
 ---
 
-![bureaublad_edg.png](/uploads/bureaublad_edg.png)
+![bureaublad-2.png](/uploads/bureaublad-2.png)
 ## EVA DE GEYTER
 
 #### <span id="typed">content consultant</span>
