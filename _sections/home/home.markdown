@@ -18,6 +18,5 @@ layout: section.typed
 
 
 ### EVA DE GEYTER
-### content consultant
 
 ##### <span id="typed">content consultant</span>
