@@ -10,10 +10,10 @@ style: 'min-height:50px; padding-top: 50px; padding-bottom: 50px;'
 <div class="container">
     <div class="row">
         <div class="col-sm-8" style="padding-top: 20px; padding-bottom: 20px;">
-            <h3 style="margin-top: 0px; margin-bottom: 0px;">Content consultant nodig?</h3>
+            <h4 style="margin-top: 0px; margin-bottom: 0px;">Copy, content of advies nodig?</h4>
         </div>
         <div class="col-sm-4" style="padding-top: 20px; padding-bottom: 20px;">
-            <a href="#" class="btn btn-primary btn-lg mailto">MAIL MIJ</a>
+            <a href="#" class="btn btn-primary btn-lg mailto">Laat maar weten</a>
         </div>
     </div>
 </div>
