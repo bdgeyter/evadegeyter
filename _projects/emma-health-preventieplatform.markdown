@@ -6,6 +6,7 @@ categories:
 client: emma health
 skills: Redactie & copywriting
 images: "/uploads/emma.health_eva-de-geyter.png"
+cover_photo: "/uploads/emma.health_eva-de-geyter.png"
 ---
 
 **Copy-consultancy voor gezondheidspreventieplatform [emma health](https://emma.health)**
