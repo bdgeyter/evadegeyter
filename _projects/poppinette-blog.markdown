@@ -6,7 +6,7 @@ categories:
 - Tekst
 - Beeld
 - Concept
-position: 5
+position: 8
 client: Poppinette
 skills:
 - Redactie & copywriting
