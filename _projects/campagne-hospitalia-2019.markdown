@@ -22,7 +22,7 @@ images:
 cover_photo: "/uploads/partena_hospitalia2019_7_eva-de-geyter.png"
 ---
 
-**Campagnes voor de [hospitalisatieverzekering](https://www.partena-ziekenfonds.be/nl/campagnes/hospitalia-medium-evi)en [tandverzekering] via Partena Ziekenfonds (https://www.partena-ziekenfonds.be/nl/campagnes/dentalia-liesbet)**
+**Campagnes voor de [hospitalisatieverzekering](https://www.partena-ziekenfonds.be/nl/campagnes/hospitalia-medium-evi)en [tandverzekering](https://www.partena-ziekenfonds.be/nl/campagnes/dentalia-liesbet)] via Partena Ziekenfonds**
 
 
 * Brainstorm campagneconcept
