@@ -28,6 +28,6 @@ cover_photo: "/uploads/partena_hospitalia2019_7_eva-de-geyter.png"
 * Brainstorm campagneconcept
 * Interviews getuigenissen
 * Copywriting verhalen en webteksten
-* Conversie-optimalisatie copy en webdesign
+* Conversie-optimalisatie copy en webdesign landing pages
 * Herwerken vorm en inhoud voor verschillende dragers: print- en online magazine, online bannering, social advertising.
 
