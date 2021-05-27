@@ -23,11 +23,15 @@ cover_photo: "/uploads/partena_hospitalia2019_7_eva-de-geyter.png"
 
 **Campagnes hospitalisatie- en tandverzekering via Partena Ziekenfonds**
 
-* [Landing pages Hospitalia](https://www.partena-ziekenfonds.be/nl/campagnes/dentalia-liesbet)
-* [Landing pages Dentalia](https://www.partena-ziekenfonds.be/nl/campagnes/hospitalia-medium-evi)
+[Landing pages Hospitalia](https://www.partena-ziekenfonds.be/nl/campagnes/dentalia-liesbet)
+[Landing pages Dentalia](https://www.partena-ziekenfonds.be/nl/campagnes/hospitalia-medium-evi)
 
 * Brainstorm campagneconcept
+
 * Interviews getuigenissen
+
 * Copywriting verhalen en webteksten
+
 * Conversie-optimalisatie landing pages
+
 * Copy en content voor verschillende dragers: print- en online magazine, online bannering, social advertising.
