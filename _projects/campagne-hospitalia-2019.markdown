@@ -11,7 +11,7 @@ client: Partena Ziekenfonds
 skills:
 - Content consultancy
 - Redactie & copywriting
-- 
+- Digital content management
 images:
 - "/uploads/partena_hospitalia2019_1_eva-de-geyter.png"
 - "/uploads/partena_hospitalia2019_2_eva-de-geyter.png"
