@@ -1,5 +1,5 @@
 ---
-title: Campagne Hospitalia 2019
+title: Productcampagnes
 date: 2019-01-28 13:13:00 Z
 categories:
 - Concept
@@ -11,7 +11,7 @@ client: Partena Ziekenfonds
 skills:
 - Content consultancy
 - Redactie & copywriting
-- Publishing & productie
+- 
 images:
 - "/uploads/partena_hospitalia2019_1_eva-de-geyter.png"
 - "/uploads/partena_hospitalia2019_2_eva-de-geyter.png"
@@ -22,10 +22,12 @@ images:
 cover_photo: "/uploads/partena_hospitalia2019_7_eva-de-geyter.png"
 ---
 
-**Campagne voor de hospitalisatieverzekering via [Partena Ziekenfonds](https://www.partena-ziekenfonds.be/nl/campagnes/hospitalia-zowie)**
+**Campagnes voor de [hospitalisatieverzekering](https://www.partena-ziekenfonds.be/nl/campagnes/hospitalia-medium-evi)en [tandverzekering] via Partena Ziekenfonds (https://www.partena-ziekenfonds.be/nl/campagnes/dentalia-liesbet)**
 
 
 * Brainstorm campagneconcept
-* Productiebegeleiding fotoshoot
 * Interviews getuigenissen
 * Copywriting verhalen en webteksten
+* Conversie-optimalisatie copy en webdesign
+* Herwerken vorm en inhoud voor verschillende dragers: print- en online magazine, online bannering, social advertising.
+
