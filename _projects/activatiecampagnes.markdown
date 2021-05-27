@@ -10,7 +10,9 @@ skills:
 - Content consultancy
 - Redactie & copywriting
 - Digital content management
-images: "/uploads/partena_toerkedoen2_eva-de-geyter.png"
+images:
+- "/uploads/partena_toerkedoen2_eva-de-geyter.png"
+- "/uploads/partena_schijfruimtevol2_eva-de-geyter.png"
 cover_photo: "/uploads/partena_toerkedoen_eva-de-geyter.png"
 ---
 
