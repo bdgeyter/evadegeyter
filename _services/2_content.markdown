@@ -4,4 +4,4 @@ position: 0
 icon: icon-basic-laptop
 ---
 
-webteksten die appeleren en converteren
+webteksten en pagina's die appeleren en converteren
