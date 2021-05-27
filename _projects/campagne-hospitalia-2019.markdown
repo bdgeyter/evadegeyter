@@ -15,7 +15,7 @@ images:
 - "/uploads/partena_hospitalia2020_2_eva-de-geyter.png"
 - "/uploads/partena_hospitalia2020_1_eva-de-geyter.png"
 - "/uploads/partena_dentalia2020_1_eva-de-geyter.png"
-- "/uploads/partena_hospitalia2019_4_eva-de-geyter.png"
+- "/uploads/partena_dentalia2020_2_eva-de-geyter.png"
 - "/uploads/partena_hospitalia2019_5_eva-de-geyter.png"
 - "/uploads/partena_hospitalia2019_6_eva-de-geyter.png"
 cover_photo: "/uploads/partena_hospitalia2019_7_eva-de-geyter.png"
