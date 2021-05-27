@@ -2,10 +2,9 @@
 title: Productcampagnes
 date: 2019-01-28 13:13:00 Z
 categories:
-- Concept
 - content
-- beeld
 - tekst
+- concept
 position: 1
 client: Partena Ziekenfonds
 skills:
