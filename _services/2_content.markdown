@@ -1,5 +1,5 @@
 ---
-title: webcontent
+title: digital content
 position: 0
 icon: icon-basic-laptop
 ---
