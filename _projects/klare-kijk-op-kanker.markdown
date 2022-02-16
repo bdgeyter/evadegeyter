@@ -1,5 +1,5 @@
 ---
-title: Content en communicatie webplatform
+title: Content en communicatie
 date: 2022-02-16 15:32:00 Z
 categories:
 - content
