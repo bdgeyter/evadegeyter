@@ -17,6 +17,10 @@ images:
 cover_photo: "/uploads/helan_copy_eva-de-geyter_1.png"
 ---
 
-**[Helan(https://www.helan.be/nl/) is het nieuwe OZ en Partena Ziekenfonds]**
-* Ontwerp tone of voice 
+**Helan is het nieuwe OZ en Partena Ziekenfonds**
+
+* Ontwerp tone of voice
+
 * Copy voor website en klantencommunicatie
+
+[helan.be](https://www.helan.be/nl/)
