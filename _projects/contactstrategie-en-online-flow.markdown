@@ -5,6 +5,7 @@ categories:
 - concept
 - content
 - tekst
+position: 2
 client: Partena Ziekenfonds
 skills:
 - Digital content management

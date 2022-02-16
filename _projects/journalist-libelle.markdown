@@ -4,7 +4,7 @@ date: 2018-08-21 09:34:00 Z
 categories:
 - Tekst
 - Beeld
-position: 12
+position: 15
 client: Libelle
 skills: Redactie & copywriting
 cover_photo: "/uploads/libelle-redacteur_eva-de-geyter.png"

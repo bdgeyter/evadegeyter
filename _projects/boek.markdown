@@ -4,7 +4,7 @@ categories:
 - Concept
 - Content
 - Tekst
-position: 6
+position: 9
 client: Partena Ziekenfonds
 skills:
 - Redactie & copywriting

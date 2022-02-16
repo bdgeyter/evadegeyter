@@ -4,7 +4,7 @@ date: 2019-01-28 12:23:00 Z
 categories:
 - Content
 - Beeld
-position: 2
+position: 5
 client: Pinpoint Solutions
 skills:
 - Content consultancy

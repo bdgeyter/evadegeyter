@@ -6,7 +6,7 @@ categories:
 - Content
 - Tekst
 - Beeld
-position: 11
+position: 14
 client: Dierenarts Katrien De Roover
 skills:
 - Content consultancy

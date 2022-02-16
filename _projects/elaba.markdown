@@ -6,7 +6,7 @@ categories:
 - Content
 - Beeld
 - Tekst
-position: 4
+position: 7
 client: Palaplu
 skills:
 - Redactie & copywriting

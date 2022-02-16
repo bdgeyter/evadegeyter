@@ -5,7 +5,7 @@ categories:
 - Content
 - Tekst
 - Beeld
-position: 14
+position: 17
 client: Libelle
 cover_photo: "/uploads/libelle-website_eva-de-geyter.png"
 ---

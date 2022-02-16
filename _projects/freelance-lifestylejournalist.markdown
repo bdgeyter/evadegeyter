@@ -4,7 +4,7 @@ date: 2018-08-21 09:10:00 Z
 categories:
 - Tekst
 - Beeld
-position: 10
+position: 13
 skills:
 - Redactie & copywriting
 - Content consultancy

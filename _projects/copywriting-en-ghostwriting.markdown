@@ -5,7 +5,7 @@ categories:
 - Concept
 - Tekst
 - Beeld
-position: 13
+position: 16
 skills:
 - Redactie & copywriting
 - Content consultancy

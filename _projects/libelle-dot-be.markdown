@@ -4,7 +4,7 @@ date: 2018-03-19 10:22:00 Z
 categories:
 - Content
 - Tekst
-position: 5
+position: 8
 client: Partena Ziekenfonds
 skills:
 - Redactie & copywriting

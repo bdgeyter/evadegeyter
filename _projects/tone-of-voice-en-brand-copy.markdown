@@ -5,6 +5,7 @@ categories:
 - concept
 - content
 - tekst
+position: 0
 client: Partena Ziekenfonds
 skills:
 - Content consultancy
