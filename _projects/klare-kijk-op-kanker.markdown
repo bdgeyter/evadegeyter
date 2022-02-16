@@ -1,7 +1,6 @@
 ---
 title: Content en communicatie webplatform
 date: 2022-02-16 15:32:00 Z
-published: false
 categories:
 - content
 - tekst
@@ -9,6 +8,7 @@ client: Bridgeneers
 skills:
 - Content consultancy
 - Redactie & copywriting
+cover_photo: "/uploads/klare%20kijk%20op%20kanker_copy_eva-de-geyter_1.png"
 ---
 
 Op [Klare kijk op Kanker](https://www.klarekijkopkanker.be) wordt alles over kanker helder uitgelegd 
