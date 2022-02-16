@@ -2,6 +2,10 @@
 title: Tone of voice en brand copy
 date: 2022-02-16 14:54:00 Z
 published: false
+categories:
+- concept
+- content
+- tekst
 client: Partena Ziekenfonds
 skills:
 - Content consultancy
