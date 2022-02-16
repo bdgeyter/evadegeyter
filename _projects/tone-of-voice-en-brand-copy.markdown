@@ -6,7 +6,7 @@ categories:
 - content
 - tekst
 position: 0
-client: Partena Ziekenfonds
+client: Helan
 skills:
 - Content consultancy
 - Redactie & copywriting
