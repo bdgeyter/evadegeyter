@@ -1,7 +1,6 @@
 ---
 title: Tone of voice en brand copy
 date: 2022-02-16 14:54:00 Z
-published: false
 categories:
 - concept
 - content
@@ -11,8 +10,12 @@ skills:
 - Content consultancy
 - Redactie & copywriting
 - Digital content management
+images:
+- "/uploads/helan_copy_eva-de-geyter_3.png"
+- "/uploads/helan_copy_eva-de-geyter_2.png"
+cover_photo: "/uploads/helan_copy_eva-de-geyter_1.png"
 ---
 
 **[Helan](https://www.helan.be/nl/) is het nieuwe OZ en Partena Ziekenfonds**
-* Ontwerp tone of voice nieuwe brand
-* Copy website en klantencommunicatie
+* Ontwerp tone of voice brand copy
+* Copy voor website en klantencommunicatie
