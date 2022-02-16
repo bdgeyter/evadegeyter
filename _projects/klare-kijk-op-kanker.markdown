@@ -11,12 +11,10 @@ skills:
 cover_photo: "/uploads/klare%20kijk%20op%20kanker_copy_eva-de-geyter_1.png"
 ---
 
-Kanker helder uitgelegd op [Klare kijk op Kanker](https://www.klarekijkopkanker.be)
+**Webplatform met heldere info voor kankerpatiënten en hun omgeving:**
 
 * Content consultancy voor video's en website
-
 * Copy voor website en social media
-
 * Communicatie- en persadvies
 
-[**klarekijkopkanker.be**](https://www.klarekijkopkanker.be)
+**[klarekijkopkanker.be](https://www.klarekijkopkanker.be)**
